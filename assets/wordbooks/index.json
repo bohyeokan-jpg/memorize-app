@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "wordbooks": [
+    {
+      "id": "english_basic_300",
+      "name": "영어 필수 기초",
+      "description": "일상과 학습에 자주 쓰이는 기본 영어 단어",
+      "language": "en",
+      "category": "영어",
+      "itemCount": 321,
+      "asset": "wordbooks/english_basic_300.json"
+    },
+    {
+      "id": "toeic_basic_200",
+      "name": "TOEIC 기본 단어",
+      "description": "TOEIC 학습에 자주 등장하는 기본 어휘",
+      "language": "en",
+      "category": "시험",
+      "itemCount": 192,
+      "asset": "wordbooks/toeic_basic_200.json"
+    },
+    {
+      "id": "travel_english_100",
+      "name": "여행 영어",
+      "description": "공항, 호텔, 식당, 교통에서 바로 쓸 수 있는 표현",
+      "language": "en",
+      "category": "여행",
+      "itemCount": 101,
+      "asset": "wordbooks/travel_english_100.json"
+    },
+    {
+      "id": "japanese_basic_100",
+      "name": "일본어 기초",
+      "description": "일상에서 자주 쓰는 일본어 기초 단어와 표현",
+      "language": "ja",
+      "category": "일본어",
+      "itemCount": 100,
+      "asset": "wordbooks/japanese_basic_100.json"
+    }
+  ]
+}

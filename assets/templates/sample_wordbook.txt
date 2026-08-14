@@ -1,0 +1,10 @@
+abandon|버리다, 포기하다
+achieve|달성하다
+accurate|정확한
+benefit|혜택, 이익
+improve|개선하다, 향상시키다
+require|요구하다
+suggest|제안하다
+travel|여행하다, 여행
+reservation|예약
+remember|기억하다

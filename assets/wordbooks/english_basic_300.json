@@ -1,0 +1,2257 @@
+{
+  "id": "english_basic_300",
+  "name": "영어 필수 기초",
+  "description": "일상과 학습에 자주 쓰이는 기본 영어 단어",
+  "language": "en",
+  "category": "영어",
+  "version": 1,
+  "items": [
+    {
+      "term": "abandon",
+      "meaning": "버리다, 포기하다",
+      "phonetic": "əbˈændən",
+      "example": "They had to abandon the car in the snow.",
+      "exampleTranslation": "그들은 눈 속에 차를 버려두어야 했다."
+    },
+    {
+      "term": "ability",
+      "meaning": "능력",
+      "phonetic": "əbˈɪlətˌi",
+      "example": "She has the ability to solve hard problems.",
+      "exampleTranslation": "그녀는 어려운 문제를 푸는 능력이 있다."
+    },
+    {
+      "term": "able",
+      "meaning": "할 수 있는",
+      "phonetic": "ˈeɪbəl",
+      "example": "He was able to finish the race.",
+      "exampleTranslation": "그는 경주를 끝낼 수 있었다."
+    },
+    {
+      "term": "absorb",
+      "meaning": "흡수하다",
+      "phonetic": "əbzˈɔɹb",
+      "example": "Plants absorb water through their roots.",
+      "exampleTranslation": "식물은 뿌리를 통해 물을 흡수한다."
+    },
+    {
+      "term": "accept",
+      "meaning": "받아들이다",
+      "phonetic": "æksˈɛpt",
+      "example": "She accepted the job offer.",
+      "exampleTranslation": "그녀는 그 일자리 제안을 받아들였다."
+    },
+    {
+      "term": "access",
+      "meaning": "접근, 이용하다",
+      "phonetic": "ˈæksˌɛs",
+      "example": "Students have access to the library.",
+      "exampleTranslation": "학생들은 도서관을 이용할 수 있다."
+    },
+    {
+      "term": "accident",
+      "meaning": "사고",
+      "phonetic": "ˈæksədənt",
+      "example": "He had a small accident on his way home.",
+      "exampleTranslation": "그는 집에 오는 길에 작은 사고를 당했다."
+    },
+    {
+      "term": "accomplish",
+      "meaning": "성취하다",
+      "phonetic": "əkˈɑmplɪʃ",
+      "example": "We accomplished our goal this year.",
+      "exampleTranslation": "우리는 올해 목표를 달성했다."
+    },
+    {
+      "term": "according",
+      "meaning": "~에 따르면",
+      "phonetic": "əkˈɔɹdɪŋ",
+      "example": "According to the news, it will snow tomorrow.",
+      "exampleTranslation": "뉴스에 따르면 내일 눈이 온다."
+    },
+    {
+      "term": "achieve",
+      "meaning": "달성하다",
+      "phonetic": "ətʃˈiv",
+      "example": "She achieved great success in her career.",
+      "exampleTranslation": "그녀는 경력에서 큰 성공을 이루었다."
+    },
+    {
+      "term": "acquire",
+      "meaning": "얻다, 습득하다",
+      "phonetic": "əkwˈaɪɚ",
+      "example": "He acquired new skills at his job.",
+      "exampleTranslation": "그는 직장에서 새로운 기술을 습득했다."
+    },
+    {
+      "term": "adapt",
+      "meaning": "적응하다",
+      "phonetic": "ədˈæpt",
+      "example": "Animals adapt to their environment.",
+      "exampleTranslation": "동물은 환경에 적응한다."
+    },
+    {
+      "term": "additional",
+      "meaning": "추가적인",
+      "phonetic": "ədˈɪʃənəl",
+      "example": "We need additional time to finish.",
+      "exampleTranslation": "우리는 끝내기 위해 추가 시간이 필요하다."
+    },
+    {
+      "term": "adjust",
+      "meaning": "조정하다",
+      "phonetic": "ədʒˈʌst",
+      "example": "Please adjust the volume.",
+      "exampleTranslation": "볼륨을 조정해 주세요."
+    },
+    {
+      "term": "admire",
+      "meaning": "존경하다",
+      "phonetic": "ædmˈaɪɹ",
+      "example": "I really admire her patience.",
+      "exampleTranslation": "나는 그녀의 인내심을 정말 존경한다."
+    },
+    {
+      "term": "admit",
+      "meaning": "인정하다",
+      "phonetic": "ədmˈɪt",
+      "example": "He admitted his mistake.",
+      "exampleTranslation": "그는 자신의 실수를 인정했다."
+    },
+    {
+      "term": "advance",
+      "meaning": "발전, 전진하다",
+      "phonetic": "ədvˈæns",
+      "example": "Technology continues to advance quickly.",
+      "exampleTranslation": "기술은 계속 빠르게 발전한다."
+    },
+    {
+      "term": "advantage",
+      "meaning": "장점",
+      "phonetic": "ædvˈæntɪdʒ",
+      "example": "Speaking two languages is a big advantage.",
+      "exampleTranslation": "두 언어를 하는 것은 큰 장점이다."
+    },
+    {
+      "term": "affect",
+      "meaning": "영향을 미치다",
+      "phonetic": "əfˈɛkt",
+      "example": "The weather can affect our mood.",
+      "exampleTranslation": "날씨는 우리 기분에 영향을 미칠 수 있다."
+    },
+    {
+      "term": "afford",
+      "meaning": "~할 여유가 있다",
+      "phonetic": "əfˈɔɹd",
+      "example": "We can't afford a new car right now.",
+      "exampleTranslation": "우리는 지금 새 차를 살 여유가 없다."
+    },
+    {
+      "term": "agree",
+      "meaning": "동의하다",
+      "phonetic": "əɡɹˈi",
+      "example": "I agree with your opinion.",
+      "exampleTranslation": "나는 당신의 의견에 동의한다."
+    },
+    {
+      "term": "allow",
+      "meaning": "허락하다",
+      "phonetic": "əlˈaʊ",
+      "example": "They don't allow pets in this building.",
+      "exampleTranslation": "이 건물에서는 반려동물을 허락하지 않는다."
+    },
+    {
+      "term": "announce",
+      "meaning": "발표하다",
+      "phonetic": "ənˈaʊns",
+      "example": "The teacher announced the test date.",
+      "exampleTranslation": "선생님은 시험 날짜를 발표했다."
+    },
+    {
+      "term": "appear",
+      "meaning": "나타나다",
+      "phonetic": "əpˈɪɹ",
+      "example": "Suddenly, a cat appeared on the roof.",
+      "exampleTranslation": "갑자기 고양이 한 마리가 지붕에 나타났다."
+    },
+    {
+      "term": "apply",
+      "meaning": "적용하다, 지원하다",
+      "phonetic": "əplˈaɪ",
+      "example": "She applied for the manager position.",
+      "exampleTranslation": "그녀는 관리자 직책에 지원했다."
+    },
+    {
+      "term": "approach",
+      "meaning": "접근하다, 접근법",
+      "phonetic": "əpɹˈoʊtʃ",
+      "example": "We need a new approach to this problem.",
+      "exampleTranslation": "우리는 이 문제에 새로운 접근법이 필요하다."
+    },
+    {
+      "term": "appropriate",
+      "meaning": "적절한",
+      "phonetic": "əpɹˈoʊpɹiət",
+      "example": "That joke wasn't appropriate for the meeting.",
+      "exampleTranslation": "그 농담은 회의에 적절하지 않았다."
+    },
+    {
+      "term": "argue",
+      "meaning": "주장하다, 논쟁하다",
+      "phonetic": "ˈɑɹɡju",
+      "example": "The couple argued about money.",
+      "exampleTranslation": "그 부부는 돈 문제로 다퉜다."
+    },
+    {
+      "term": "arrange",
+      "meaning": "정리하다, 준비하다",
+      "phonetic": "ɚˈeɪndʒ",
+      "example": "Let's arrange the chairs in a circle.",
+      "exampleTranslation": "의자를 원형으로 정리합시다."
+    },
+    {
+      "term": "assume",
+      "meaning": "가정하다",
+      "phonetic": "əsˈum",
+      "example": "I assumed you already knew.",
+      "exampleTranslation": "나는 당신이 이미 알고 있다고 가정했다."
+    },
+    {
+      "term": "attempt",
+      "meaning": "시도하다",
+      "phonetic": "ətˈɛmpt",
+      "example": "He made an attempt to fix the printer.",
+      "exampleTranslation": "그는 프린터를 고치려고 시도했다."
+    },
+    {
+      "term": "attend",
+      "meaning": "참석하다",
+      "phonetic": "ətˈɛnd",
+      "example": "All students must attend the class.",
+      "exampleTranslation": "모든 학생은 그 수업에 참석해야 한다."
+    },
+    {
+      "term": "avoid",
+      "meaning": "피하다",
+      "phonetic": "əvˈɔɪd",
+      "example": "Try to avoid sugar before bed.",
+      "exampleTranslation": "자기 전에 설탕을 피하도록 하세요."
+    },
+    {
+      "term": "aware",
+      "meaning": "알고 있는",
+      "phonetic": "əwˈɛɹ",
+      "example": "I wasn't aware of the new rule.",
+      "exampleTranslation": "나는 새 규칙을 알지 못했다."
+    },
+    {
+      "term": "benefit",
+      "meaning": "혜택, 이익",
+      "phonetic": "bˈɛnəfɪt",
+      "example": "Exercise has many health benefits.",
+      "exampleTranslation": "운동은 건강에 많은 이점이 있다."
+    },
+    {
+      "term": "brief",
+      "meaning": "간단한",
+      "phonetic": "bɹˈif",
+      "example": "He gave a brief summary of the plan.",
+      "exampleTranslation": "그는 계획에 대해 간단한 요약을 했다."
+    },
+    {
+      "term": "calculate",
+      "meaning": "계산하다",
+      "phonetic": "kˈælkjəlˌeɪt",
+      "example": "Let's calculate how much we need.",
+      "exampleTranslation": "우리에게 얼마나 필요한지 계산해 봅시다."
+    },
+    {
+      "term": "cause",
+      "meaning": "원인, 야기하다",
+      "phonetic": "kˈɑz",
+      "example": "Heavy rain caused the flood.",
+      "exampleTranslation": "폭우가 홍수를 야기했다."
+    },
+    {
+      "term": "challenge",
+      "meaning": "도전",
+      "phonetic": "tʃˈæləndʒ",
+      "example": "Learning a new language is a big challenge.",
+      "exampleTranslation": "새로운 언어를 배우는 것은 큰 도전이다."
+    },
+    {
+      "term": "change",
+      "meaning": "변화, 바꾸다",
+      "phonetic": "tʃˈeɪndʒ",
+      "example": "We need to change our plan.",
+      "exampleTranslation": "우리는 계획을 바꿔야 한다."
+    },
+    {
+      "term": "choose",
+      "meaning": "선택하다",
+      "phonetic": "tʃˈuz",
+      "example": "You can choose any color you like.",
+      "exampleTranslation": "원하는 색을 아무거나 선택할 수 있다."
+    },
+    {
+      "term": "claim",
+      "meaning": "주장하다",
+      "phonetic": "klˈeɪm",
+      "example": "He claims he saw a ghost.",
+      "exampleTranslation": "그는 유령을 보았다고 주장한다."
+    },
+    {
+      "term": "clear",
+      "meaning": "명확한",
+      "phonetic": "klˈɪɹ",
+      "example": "Her explanation was very clear.",
+      "exampleTranslation": "그녀의 설명은 매우 명확했다."
+    },
+    {
+      "term": "compare",
+      "meaning": "비교하다",
+      "phonetic": "kəmpˈɛɹ",
+      "example": "Let's compare the two options.",
+      "exampleTranslation": "두 가지 선택지를 비교해 봅시다."
+    },
+    {
+      "term": "complete",
+      "meaning": "완료하다, 완전한",
+      "phonetic": "kəmplˈit",
+      "example": "Please complete the form.",
+      "exampleTranslation": "양식을 작성해 완료해 주세요."
+    },
+    {
+      "term": "concern",
+      "meaning": "우려, 걱정하다",
+      "phonetic": "kənsˈɝn",
+      "example": "Safety is our main concern.",
+      "exampleTranslation": "안전이 우리의 주요 관심사이다."
+    },
+    {
+      "term": "confirm",
+      "meaning": "확인하다",
+      "phonetic": "kənfˈɝm",
+      "example": "Can you confirm the meeting time?",
+      "exampleTranslation": "회의 시간을 확인해 주시겠어요?"
+    },
+    {
+      "term": "consider",
+      "meaning": "고려하다",
+      "phonetic": "kənsˈɪdɚ",
+      "example": "We should consider all options.",
+      "exampleTranslation": "우리는 모든 선택지를 고려해야 한다."
+    },
+    {
+      "term": "contain",
+      "meaning": "포함하다",
+      "phonetic": "kəntˈeɪn",
+      "example": "This drink contains a lot of sugar.",
+      "exampleTranslation": "이 음료는 설탕을 많이 포함하고 있다."
+    },
+    {
+      "term": "continue",
+      "meaning": "계속하다",
+      "phonetic": "kəntˈɪnju",
+      "example": "Please continue with your work.",
+      "exampleTranslation": "계속 일을 진행해 주세요."
+    },
+    {
+      "term": "contribute",
+      "meaning": "기여하다",
+      "phonetic": "kəntɹˈɪbjut",
+      "example": "Everyone contributed ideas to the project.",
+      "exampleTranslation": "모두가 프로젝트에 아이디어를 기여했다."
+    },
+    {
+      "term": "control",
+      "meaning": "통제하다",
+      "phonetic": "kəntɹˈoʊl",
+      "example": "He couldn't control his anger.",
+      "exampleTranslation": "그는 자신의 화를 통제할 수 없었다."
+    },
+    {
+      "term": "convenient",
+      "meaning": "편리한",
+      "phonetic": "kənvˈinjənt",
+      "example": "Online shopping is very convenient.",
+      "exampleTranslation": "온라인 쇼핑은 매우 편리하다."
+    },
+    {
+      "term": "create",
+      "meaning": "창조하다",
+      "phonetic": "kɹiˈeɪt",
+      "example": "She created a beautiful painting.",
+      "exampleTranslation": "그녀는 아름다운 그림을 창조했다."
+    },
+    {
+      "term": "decide",
+      "meaning": "결정하다",
+      "phonetic": "dˌɪsˈaɪd",
+      "example": "We decided to stay home tonight.",
+      "exampleTranslation": "우리는 오늘 밤 집에 있기로 결정했다."
+    },
+    {
+      "term": "decline",
+      "meaning": "감소하다, 거절하다",
+      "phonetic": "dɪklˈaɪn",
+      "example": "Sales declined last month.",
+      "exampleTranslation": "지난달 매출이 감소했다."
+    },
+    {
+      "term": "define",
+      "meaning": "정의하다",
+      "phonetic": "dɪfˈaɪn",
+      "example": "Can you define this word?",
+      "exampleTranslation": "이 단어를 정의해 주시겠어요?"
+    },
+    {
+      "term": "deliver",
+      "meaning": "배달하다, 전달하다",
+      "phonetic": "dɪlˈɪvɚ",
+      "example": "The mailman delivers letters every morning.",
+      "exampleTranslation": "우편배달부는 매일 아침 편지를 배달한다."
+    },
+    {
+      "term": "demand",
+      "meaning": "요구, 수요",
+      "phonetic": "dɪmˈænd",
+      "example": "There is a high demand for this product.",
+      "exampleTranslation": "이 제품에 대한 수요가 높다."
+    },
+    {
+      "term": "depend",
+      "meaning": "의존하다",
+      "phonetic": "dɪpˈɛnd",
+      "example": "It depends on the weather.",
+      "exampleTranslation": "그것은 날씨에 달려 있다."
+    },
+    {
+      "term": "describe",
+      "meaning": "묘사하다",
+      "phonetic": "dɪskɹˈaɪb",
+      "example": "Can you describe the man you saw?",
+      "exampleTranslation": "당신이 본 남자를 설명해 주시겠어요?"
+    },
+    {
+      "term": "design",
+      "meaning": "설계하다, 디자인",
+      "phonetic": "dɪzˈaɪn",
+      "example": "She designs clothes for a living.",
+      "exampleTranslation": "그녀는 옷을 디자인하는 일을 한다."
+    },
+    {
+      "term": "develop",
+      "meaning": "개발하다",
+      "phonetic": "dɪvˈɛləp",
+      "example": "The city plans to develop the old area.",
+      "exampleTranslation": "그 도시는 오래된 지역을 개발할 계획이다."
+    },
+    {
+      "term": "difference",
+      "meaning": "차이",
+      "phonetic": "dˈɪfɚəns",
+      "example": "There is a big difference between the two plans.",
+      "exampleTranslation": "그 두 계획 사이에는 큰 차이가 있다."
+    },
+    {
+      "term": "discover",
+      "meaning": "발견하다",
+      "phonetic": "dɪskˈʌvɚ",
+      "example": "Scientists discovered a new species.",
+      "exampleTranslation": "과학자들은 새로운 종을 발견했다."
+    },
+    {
+      "term": "discuss",
+      "meaning": "논의하다",
+      "phonetic": "dɪskˈʌs",
+      "example": "Let's discuss the schedule tomorrow.",
+      "exampleTranslation": "내일 일정에 대해 논의합시다."
+    },
+    {
+      "term": "effect",
+      "meaning": "효과, 영향",
+      "phonetic": "ɪfˈɛkt",
+      "example": "The medicine had no effect.",
+      "exampleTranslation": "그 약은 아무 효과가 없었다."
+    },
+    {
+      "term": "efficient",
+      "meaning": "효율적인",
+      "phonetic": "ɪfˈɪʃənt",
+      "example": "This is a more efficient way to work.",
+      "exampleTranslation": "이것이 더 효율적으로 일하는 방법이다."
+    },
+    {
+      "term": "encourage",
+      "meaning": "격려하다",
+      "phonetic": "ɛnkˈɝɪdʒ",
+      "example": "My teacher encouraged me to keep trying.",
+      "exampleTranslation": "선생님은 계속 노력하라고 나를 격려했다."
+    },
+    {
+      "term": "ensure",
+      "meaning": "보장하다",
+      "phonetic": "ɛnʃˈʊɹ",
+      "example": "Please ensure the door is locked.",
+      "exampleTranslation": "문이 잠겼는지 확인해 주세요."
+    },
+    {
+      "term": "environment",
+      "meaning": "환경",
+      "phonetic": "ɪnvˈaɪɹənmənt",
+      "example": "We should protect the environment.",
+      "exampleTranslation": "우리는 환경을 보호해야 한다."
+    },
+    {
+      "term": "establish",
+      "meaning": "설립하다, 확립하다",
+      "phonetic": "ɪstˈæblɪʃ",
+      "example": "The school was established in 1950.",
+      "exampleTranslation": "그 학교는 1950년에 설립되었다."
+    },
+    {
+      "term": "evaluate",
+      "meaning": "평가하다",
+      "phonetic": "ɪvˈæljuˌeɪt",
+      "example": "The teacher evaluated our essays.",
+      "exampleTranslation": "선생님은 우리의 에세이를 평가했다."
+    },
+    {
+      "term": "event",
+      "meaning": "사건, 행사",
+      "phonetic": "ɪvˈɛnt",
+      "example": "The concert was a big event.",
+      "exampleTranslation": "그 콘서트는 큰 행사였다."
+    },
+    {
+      "term": "evidence",
+      "meaning": "증거",
+      "phonetic": "ˈɛvədəns",
+      "example": "There is no evidence for that claim.",
+      "exampleTranslation": "그 주장에 대한 증거가 없다."
+    },
+    {
+      "term": "exact",
+      "meaning": "정확한",
+      "phonetic": "ɪɡzˈækt",
+      "example": "I don't know the exact time.",
+      "exampleTranslation": "나는 정확한 시간을 모른다."
+    },
+    {
+      "term": "exist",
+      "meaning": "존재하다",
+      "phonetic": "ɪɡzˈɪst",
+      "example": "Does this problem still exist?",
+      "exampleTranslation": "이 문제가 아직 존재하나요?"
+    },
+    {
+      "term": "expect",
+      "meaning": "기대하다",
+      "phonetic": "ɪkspˈɛkt",
+      "example": "I expect good news soon.",
+      "exampleTranslation": "나는 곧 좋은 소식을 기대한다."
+    },
+    {
+      "term": "experience",
+      "meaning": "경험",
+      "phonetic": "ɪkspˈɪɹiəns",
+      "example": "She has a lot of experience in teaching.",
+      "exampleTranslation": "그녀는 가르치는 데 많은 경험이 있다."
+    },
+    {
+      "term": "explain",
+      "meaning": "설명하다",
+      "phonetic": "ɪksplˈeɪn",
+      "example": "Can you explain this again?",
+      "exampleTranslation": "이것을 다시 설명해 주시겠어요?"
+    },
+    {
+      "term": "familiar",
+      "meaning": "익숙한",
+      "phonetic": "fəmˈɪljɚ",
+      "example": "This song sounds familiar.",
+      "exampleTranslation": "이 노래는 익숙하게 들린다."
+    },
+    {
+      "term": "feature",
+      "meaning": "특징",
+      "phonetic": "fˈitʃɚ",
+      "example": "This car has many new features.",
+      "exampleTranslation": "이 자동차는 새로운 기능이 많다."
+    },
+    {
+      "term": "focus",
+      "meaning": "집중하다, 초점",
+      "phonetic": "fˈoʊkəs",
+      "example": "Please focus on your homework.",
+      "exampleTranslation": "숙제에 집중해 주세요."
+    },
+    {
+      "term": "force",
+      "meaning": "힘, 강요하다",
+      "phonetic": "fˈɔɹs",
+      "example": "Strong wind can force trees to fall.",
+      "exampleTranslation": "강한 바람은 나무를 쓰러뜨릴 수 있다."
+    },
+    {
+      "term": "frequent",
+      "meaning": "빈번한",
+      "phonetic": "fɹˈikwənt",
+      "example": "He is a frequent visitor to this café.",
+      "exampleTranslation": "그는 이 카페의 단골 손님이다."
+    },
+    {
+      "term": "function",
+      "meaning": "기능",
+      "phonetic": "fˈʌŋkʃən",
+      "example": "What is the function of this button?",
+      "exampleTranslation": "이 버튼의 기능은 무엇인가요?"
+    },
+    {
+      "term": "generate",
+      "meaning": "생성하다",
+      "phonetic": "dʒˈɛnɚˌeɪt",
+      "example": "Solar panels generate electricity.",
+      "exampleTranslation": "태양광 패널은 전기를 생성한다."
+    },
+    {
+      "term": "goal",
+      "meaning": "목표",
+      "phonetic": "ɡˈoʊl",
+      "example": "Her goal is to become a doctor.",
+      "exampleTranslation": "그녀의 목표는 의사가 되는 것이다."
+    },
+    {
+      "term": "handle",
+      "meaning": "다루다",
+      "phonetic": "hˈændəl",
+      "example": "She handled the situation calmly.",
+      "exampleTranslation": "그녀는 그 상황을 침착하게 다뤘다."
+    },
+    {
+      "term": "identify",
+      "meaning": "식별하다",
+      "phonetic": "aɪdˈɛntəfˌaɪ",
+      "example": "Can you identify the man in the photo?",
+      "exampleTranslation": "사진 속 남자를 식별할 수 있나요?"
+    },
+    {
+      "term": "improve",
+      "meaning": "개선하다, 향상시키다",
+      "phonetic": "ˌɪmpɹˈuv",
+      "example": "He wants to improve his English.",
+      "exampleTranslation": "그는 영어를 향상시키고 싶어 한다."
+    },
+    {
+      "term": "include",
+      "meaning": "포함하다",
+      "phonetic": "ˌɪnklˈud",
+      "example": "The price includes breakfast.",
+      "exampleTranslation": "그 가격에는 아침 식사가 포함되어 있다."
+    },
+    {
+      "term": "increase",
+      "meaning": "증가하다",
+      "phonetic": "ˌɪnkɹˈis",
+      "example": "Prices increased last year.",
+      "exampleTranslation": "작년에 가격이 증가했다."
+    },
+    {
+      "term": "indicate",
+      "meaning": "나타내다",
+      "phonetic": "ˈɪndəkˌeɪt",
+      "example": "The sign indicates a hospital nearby.",
+      "exampleTranslation": "그 표지판은 근처에 병원이 있음을 나타낸다."
+    },
+    {
+      "term": "individual",
+      "meaning": "개인, 개별의",
+      "phonetic": "ˌɪndəvˈɪdʒəwəl",
+      "example": "Each individual has different needs.",
+      "exampleTranslation": "각 개인은 다른 필요를 가진다."
+    },
+    {
+      "term": "influence",
+      "meaning": "영향, 영향을 미치다",
+      "phonetic": "ˈɪnfluəns",
+      "example": "Parents have a big influence on children.",
+      "exampleTranslation": "부모는 아이들에게 큰 영향을 미친다."
+    },
+    {
+      "term": "inform",
+      "meaning": "알리다",
+      "phonetic": "ˌɪnfˈɔɹm",
+      "example": "Please inform us of any changes.",
+      "exampleTranslation": "변경 사항이 있으면 저희에게 알려주세요."
+    },
+    {
+      "term": "instead",
+      "meaning": "대신에",
+      "phonetic": "ˌɪnstˈɛd",
+      "example": "Let's walk instead of driving.",
+      "exampleTranslation": "운전하는 대신 걸읍시다."
+    },
+    {
+      "term": "introduce",
+      "meaning": "소개하다",
+      "phonetic": "ˌɪntɹədˈus",
+      "example": "Let me introduce my friend.",
+      "exampleTranslation": "제 친구를 소개할게요."
+    },
+    {
+      "term": "involve",
+      "meaning": "포함하다, 관련시키다",
+      "phonetic": "ˌɪnvˈɑlv",
+      "example": "The project involves many people.",
+      "exampleTranslation": "그 프로젝트는 많은 사람들을 포함한다."
+    },
+    {
+      "term": "issue",
+      "meaning": "문제, 발행하다",
+      "phonetic": "ˈɪʃu",
+      "example": "We need to solve this issue.",
+      "exampleTranslation": "우리는 이 문제를 해결해야 한다."
+    },
+    {
+      "term": "maintain",
+      "meaning": "유지하다",
+      "phonetic": "meɪntˈeɪn",
+      "example": "It's hard to maintain good habits.",
+      "exampleTranslation": "좋은 습관을 유지하는 것은 어렵다."
+    },
+    {
+      "term": "manage",
+      "meaning": "관리하다",
+      "phonetic": "mˈænədʒ",
+      "example": "She manages a small restaurant.",
+      "exampleTranslation": "그녀는 작은 식당을 관리한다."
+    },
+    {
+      "term": "measure",
+      "meaning": "측정하다",
+      "phonetic": "mˈɛʒɚ",
+      "example": "We measured the length of the room.",
+      "exampleTranslation": "우리는 방의 길이를 측정했다."
+    },
+    {
+      "term": "mention",
+      "meaning": "언급하다",
+      "phonetic": "mˈɛnʃən",
+      "example": "She didn't mention the price.",
+      "exampleTranslation": "그녀는 가격을 언급하지 않았다."
+    },
+    {
+      "term": "method",
+      "meaning": "방법",
+      "phonetic": "mˈɛθəd",
+      "example": "This is a good method to learn words.",
+      "exampleTranslation": "이것은 단어를 배우는 좋은 방법이다."
+    },
+    {
+      "term": "notice",
+      "meaning": "알아차리다",
+      "phonetic": "nˈoʊtəs",
+      "example": "I noticed a change in his behavior.",
+      "exampleTranslation": "나는 그의 행동에서 변화를 알아차렸다."
+    },
+    {
+      "term": "obtain",
+      "meaning": "얻다",
+      "phonetic": "əbtˈeɪn",
+      "example": "He obtained a driving license last week.",
+      "exampleTranslation": "그는 지난주에 운전 면허를 취득했다."
+    },
+    {
+      "term": "occur",
+      "meaning": "발생하다",
+      "phonetic": "əkˈɝ",
+      "example": "The accident occurred at midnight.",
+      "exampleTranslation": "그 사고는 자정에 발생했다."
+    },
+    {
+      "term": "offer",
+      "meaning": "제공하다, 제안",
+      "phonetic": "ˈɔfɚ",
+      "example": "They offered me a cup of tea.",
+      "exampleTranslation": "그들은 나에게 차 한 잔을 제공했다."
+    },
+    {
+      "term": "opportunity",
+      "meaning": "기회",
+      "phonetic": "ˌɑpɚtˈunəti",
+      "example": "This job is a great opportunity.",
+      "exampleTranslation": "이 일자리는 좋은 기회이다."
+    },
+    {
+      "term": "ordinary",
+      "meaning": "평범한",
+      "phonetic": "ˈɔɹdənˌɛɹi",
+      "example": "It was just an ordinary day.",
+      "exampleTranslation": "그것은 그저 평범한 하루였다."
+    },
+    {
+      "term": "organize",
+      "meaning": "정리하다, 조직하다",
+      "phonetic": "ˈɔɹɡənˌaɪz",
+      "example": "She organized her desk yesterday.",
+      "exampleTranslation": "그녀는 어제 책상을 정리했다."
+    },
+    {
+      "term": "participate",
+      "meaning": "참여하다",
+      "phonetic": "pɑɹtˈɪsəpˌeɪt",
+      "example": "Many students participated in the event.",
+      "exampleTranslation": "많은 학생들이 그 행사에 참여했다."
+    },
+    {
+      "term": "perform",
+      "meaning": "수행하다",
+      "phonetic": "pɚfˈɔɹm",
+      "example": "The band will perform tonight.",
+      "exampleTranslation": "그 밴드는 오늘 밤 공연할 것이다."
+    },
+    {
+      "term": "prevent",
+      "meaning": "막다",
+      "phonetic": "pɹɪvˈɛnt",
+      "example": "Regular exercise can prevent illness.",
+      "exampleTranslation": "규칙적인 운동은 질병을 막을 수 있다."
+    },
+    {
+      "term": "process",
+      "meaning": "과정, 처리하다",
+      "phonetic": "pɹˈɑsˌɛs",
+      "example": "The application process takes two weeks.",
+      "exampleTranslation": "신청 절차는 2주가 걸린다."
+    },
+    {
+      "term": "produce",
+      "meaning": "생산하다",
+      "phonetic": "pɹədˈus",
+      "example": "This factory produces cars.",
+      "exampleTranslation": "이 공장은 자동차를 생산한다."
+    },
+    {
+      "term": "provide",
+      "meaning": "제공하다",
+      "phonetic": "pɹəvˈaɪd",
+      "example": "The hotel provides free breakfast.",
+      "exampleTranslation": "그 호텔은 무료 아침 식사를 제공한다."
+    },
+    {
+      "term": "purpose",
+      "meaning": "목적",
+      "phonetic": "pˈɝpəs",
+      "example": "What is the purpose of this meeting?",
+      "exampleTranslation": "이 회의의 목적은 무엇인가요?"
+    },
+    {
+      "term": "receive",
+      "meaning": "받다",
+      "phonetic": "ɹəsˈiv",
+      "example": "I received a letter this morning.",
+      "exampleTranslation": "나는 오늘 아침에 편지를 받았다."
+    },
+    {
+      "term": "reduce",
+      "meaning": "줄이다",
+      "phonetic": "ɹədˈus",
+      "example": "We should reduce plastic waste.",
+      "exampleTranslation": "우리는 플라스틱 쓰레기를 줄여야 한다."
+    },
+    {
+      "term": "reflect",
+      "meaning": "반영하다",
+      "phonetic": "ɹɪflˈɛkt",
+      "example": "This essay reflects her true feelings.",
+      "exampleTranslation": "이 에세이는 그녀의 진짜 감정을 반영한다."
+    },
+    {
+      "term": "refuse",
+      "meaning": "거절하다",
+      "phonetic": "ɹəfjˈuz",
+      "example": "He refused to answer the question.",
+      "exampleTranslation": "그는 그 질문에 대답하기를 거절했다."
+    },
+    {
+      "term": "remain",
+      "meaning": "남아 있다",
+      "phonetic": "ɹɪmˈeɪn",
+      "example": "Please remain seated.",
+      "exampleTranslation": "자리에 앉아 계세요."
+    },
+    {
+      "term": "require",
+      "meaning": "요구하다",
+      "phonetic": "ɹˌikwˈaɪɚ",
+      "example": "This job requires patience.",
+      "exampleTranslation": "이 일은 인내심을 요구한다."
+    },
+    {
+      "term": "respond",
+      "meaning": "응답하다",
+      "phonetic": "ɹɪspˈɑnd",
+      "example": "She responded quickly to my message.",
+      "exampleTranslation": "그녀는 내 메시지에 빠르게 응답했다."
+    },
+    {
+      "term": "result",
+      "meaning": "결과",
+      "phonetic": "ɹɪzˈʌlt",
+      "example": "The result of the test was good.",
+      "exampleTranslation": "그 시험의 결과는 좋았다."
+    },
+    {
+      "term": "return",
+      "meaning": "돌아오다, 반환하다",
+      "phonetic": "ɹɪtˈɝn",
+      "example": "He returned the book to the library.",
+      "exampleTranslation": "그는 도서관에 책을 반환했다."
+    },
+    {
+      "term": "reveal",
+      "meaning": "드러내다",
+      "phonetic": "ɹɪvˈil",
+      "example": "The report revealed the true cost.",
+      "exampleTranslation": "그 보고서는 실제 비용을 드러냈다."
+    },
+    {
+      "term": "select",
+      "meaning": "선택하다",
+      "phonetic": "səlˈɛkt",
+      "example": "Please select your favorite color.",
+      "exampleTranslation": "가장 좋아하는 색을 선택해 주세요."
+    },
+    {
+      "term": "separate",
+      "meaning": "분리하다",
+      "phonetic": "sˈɛpɚˌeɪt",
+      "example": "Please separate the paper from the plastic.",
+      "exampleTranslation": "종이와 플라스틱을 분리해 주세요."
+    },
+    {
+      "term": "similar",
+      "meaning": "비슷한",
+      "phonetic": "sˈɪməlɚ",
+      "example": "Her dress is similar to mine.",
+      "exampleTranslation": "그녀의 드레스는 내 것과 비슷하다."
+    },
+    {
+      "term": "solve",
+      "meaning": "해결하다",
+      "phonetic": "sˈɑlv",
+      "example": "Can you solve this puzzle?",
+      "exampleTranslation": "이 퍼즐을 풀 수 있나요?"
+    },
+    {
+      "term": "specific",
+      "meaning": "구체적인",
+      "phonetic": "spəsˈɪfɪk",
+      "example": "Please give me a specific date.",
+      "exampleTranslation": "구체적인 날짜를 알려주세요."
+    },
+    {
+      "term": "suggest",
+      "meaning": "제안하다",
+      "phonetic": "sədʒˈɛst",
+      "example": "I suggest we take a break.",
+      "exampleTranslation": "잠깐 쉬는 것을 제안해요."
+    },
+    {
+      "term": "support",
+      "meaning": "지원하다",
+      "phonetic": "səpˈɔɹt",
+      "example": "My family always supports me.",
+      "exampleTranslation": "내 가족은 항상 나를 지원한다."
+    },
+    {
+      "term": "suppose",
+      "meaning": "가정하다",
+      "phonetic": "səpˈoʊz",
+      "example": "I suppose you're right.",
+      "exampleTranslation": "당신이 맞다고 생각해요."
+    },
+    {
+      "term": "temporary",
+      "meaning": "일시적인",
+      "phonetic": "tˈɛmpɚˌɛɹi",
+      "example": "This is just a temporary job.",
+      "exampleTranslation": "이것은 그저 임시직이다."
+    },
+    {
+      "term": "treat",
+      "meaning": "다루다, 대우하다",
+      "phonetic": "tɹˈit",
+      "example": "The doctor treated my injury.",
+      "exampleTranslation": "의사는 내 부상을 치료했다."
+    },
+    {
+      "term": "understand",
+      "meaning": "이해하다",
+      "phonetic": "ˌʌndɚstˈænd",
+      "example": "I don't understand this sentence.",
+      "exampleTranslation": "나는 이 문장을 이해하지 못한다."
+    },
+    {
+      "term": "unique",
+      "meaning": "독특한",
+      "phonetic": "junˈik",
+      "example": "Every snowflake is unique.",
+      "exampleTranslation": "모든 눈송이는 독특하다."
+    },
+    {
+      "term": "update",
+      "meaning": "업데이트하다",
+      "phonetic": "əpdˈeɪt",
+      "example": "I need to update my phone.",
+      "exampleTranslation": "나는 휴대폰을 업데이트해야 한다."
+    },
+    {
+      "term": "various",
+      "meaning": "다양한",
+      "phonetic": "vˈɛɹiəs",
+      "example": "The store sells various kinds of bread.",
+      "exampleTranslation": "그 가게는 다양한 종류의 빵을 판다."
+    },
+    {
+      "term": "accurate",
+      "meaning": "정확한",
+      "phonetic": "ˈækjɚət",
+      "example": "Her prediction was very accurate.",
+      "exampleTranslation": "그녀의 예측은 매우 정확했다."
+    },
+    {
+      "term": "actually",
+      "meaning": "실제로",
+      "phonetic": "ˈæktʃˌuəli",
+      "example": "Actually, I don't like coffee.",
+      "exampleTranslation": "사실, 나는 커피를 좋아하지 않는다."
+    },
+    {
+      "term": "available",
+      "meaning": "이용 가능한, 구할 수 있는",
+      "phonetic": "əvˈeɪləbəl",
+      "example": "The room is available tonight.",
+      "exampleTranslation": "그 방은 오늘 밤 이용 가능하다."
+    },
+    {
+      "term": "basic",
+      "meaning": "기본적인",
+      "phonetic": "bˈeɪsɪk",
+      "example": "This is basic knowledge for the exam.",
+      "exampleTranslation": "이것은 시험을 위한 기본 지식이다."
+    },
+    {
+      "term": "beneficial",
+      "meaning": "유익한",
+      "phonetic": "bˌɛnəfˈɪʃəl",
+      "example": "Reading is beneficial for children.",
+      "exampleTranslation": "독서는 아이들에게 유익하다."
+    },
+    {
+      "term": "certain",
+      "meaning": "확실한",
+      "phonetic": "sˈɝtən",
+      "example": "I am certain about my answer.",
+      "exampleTranslation": "나는 내 답에 대해 확신한다."
+    },
+    {
+      "term": "common",
+      "meaning": "흔한",
+      "phonetic": "kˈɑmən",
+      "example": "This is a common mistake.",
+      "exampleTranslation": "이것은 흔한 실수이다."
+    },
+    {
+      "term": "complex",
+      "meaning": "복잡한",
+      "phonetic": "kˈɑmplɛks",
+      "example": "The instructions were too complex.",
+      "exampleTranslation": "그 설명서는 너무 복잡했다."
+    },
+    {
+      "term": "critical",
+      "meaning": "중요한, 비판적인",
+      "phonetic": "kɹˈɪtɪkəl",
+      "example": "This is a critical moment for our team.",
+      "exampleTranslation": "이것은 우리 팀에게 중요한 순간이다."
+    },
+    {
+      "term": "current",
+      "meaning": "현재의",
+      "phonetic": "kˈɝənt",
+      "example": "What is the current price of gold?",
+      "exampleTranslation": "금의 현재 가격은 얼마인가요?"
+    },
+    {
+      "term": "effective",
+      "meaning": "효과적인",
+      "phonetic": "ɪfˈɛktɪv",
+      "example": "This medicine is very effective.",
+      "exampleTranslation": "이 약은 매우 효과적이다."
+    },
+    {
+      "term": "essential",
+      "meaning": "필수적인",
+      "phonetic": "ɛsˈɛnʃəl",
+      "example": "Water is essential for life.",
+      "exampleTranslation": "물은 생명에 필수적이다."
+    },
+    {
+      "term": "general",
+      "meaning": "일반적인",
+      "phonetic": "dʒˈɛnɚəl",
+      "example": "In general, the food here is good.",
+      "exampleTranslation": "일반적으로, 이곳의 음식은 좋다."
+    },
+    {
+      "term": "independent",
+      "meaning": "독립적인",
+      "phonetic": "ˌɪndɪpˈɛndənt",
+      "example": "She became independent after college.",
+      "exampleTranslation": "그녀는 대학 이후 독립적이 되었다."
+    },
+    {
+      "term": "likely",
+      "meaning": "~할 것 같은",
+      "phonetic": "lˈaɪkli",
+      "example": "It is likely to be sunny tomorrow.",
+      "exampleTranslation": "내일은 맑을 것 같다."
+    },
+    {
+      "term": "major",
+      "meaning": "주요한",
+      "phonetic": "mˈeɪdʒɚ",
+      "example": "This is a major change in the plan.",
+      "exampleTranslation": "이것은 계획의 주요한 변화이다."
+    },
+    {
+      "term": "necessary",
+      "meaning": "필요한",
+      "phonetic": "nˈɛsəsˌɛɹi",
+      "example": "Is it necessary to bring an umbrella?",
+      "exampleTranslation": "우산을 가져오는 것이 필요한가요?"
+    },
+    {
+      "term": "normal",
+      "meaning": "정상적인",
+      "phonetic": "nˈɔɹməl",
+      "example": "It's normal to feel nervous before a test.",
+      "exampleTranslation": "시험 전에 긴장하는 것은 정상이다."
+    },
+    {
+      "term": "possible",
+      "meaning": "가능한",
+      "phonetic": "pˈɑsəbəl",
+      "example": "Is it possible to change the date?",
+      "exampleTranslation": "날짜를 바꾸는 것이 가능한가요?"
+    },
+    {
+      "term": "practical",
+      "meaning": "실용적인",
+      "phonetic": "pɹˈæktəkəl",
+      "example": "This is a practical solution.",
+      "exampleTranslation": "이것은 실용적인 해결책이다."
+    },
+    {
+      "term": "primary",
+      "meaning": "주요한, 첫째의",
+      "phonetic": "pɹˈaɪmˌɛɹi",
+      "example": "Her primary goal is to save money.",
+      "exampleTranslation": "그녀의 주요 목표는 돈을 모으는 것이다."
+    },
+    {
+      "term": "recent",
+      "meaning": "최근의",
+      "phonetic": "ɹˈisənt",
+      "example": "Have you seen the recent news?",
+      "exampleTranslation": "최근 뉴스를 보셨나요?"
+    },
+    {
+      "term": "relevant",
+      "meaning": "관련 있는",
+      "phonetic": "ɹˈɛləvənt",
+      "example": "This information isn't relevant to our topic.",
+      "exampleTranslation": "이 정보는 우리 주제와 관련이 없다."
+    },
+    {
+      "term": "responsible",
+      "meaning": "책임이 있는",
+      "phonetic": "ɹispˈɑnsəbəl",
+      "example": "Parents are responsible for their children.",
+      "exampleTranslation": "부모는 아이들에 대한 책임이 있다."
+    },
+    {
+      "term": "serious",
+      "meaning": "심각한",
+      "phonetic": "sˈɪɹiəs",
+      "example": "This is a serious problem.",
+      "exampleTranslation": "이것은 심각한 문제이다."
+    },
+    {
+      "term": "simple",
+      "meaning": "간단한",
+      "phonetic": "sˈɪmpəl",
+      "example": "The recipe is very simple.",
+      "exampleTranslation": "그 조리법은 매우 간단하다."
+    },
+    {
+      "term": "successful",
+      "meaning": "성공적인",
+      "phonetic": "səksˈɛsfəl",
+      "example": "She had a successful career.",
+      "exampleTranslation": "그녀는 성공적인 경력을 가졌다."
+    },
+    {
+      "term": "traditional",
+      "meaning": "전통적인",
+      "phonetic": "tɹədˈɪʃənəl",
+      "example": "We had a traditional Korean meal.",
+      "exampleTranslation": "우리는 전통 한식을 먹었다."
+    },
+    {
+      "term": "useful",
+      "meaning": "유용한",
+      "phonetic": "jˈusfəl",
+      "example": "This app is very useful for travel.",
+      "exampleTranslation": "이 앱은 여행에 매우 유용하다."
+    },
+    {
+      "term": "arrive",
+      "meaning": "도착하다",
+      "phonetic": "ɚˈaɪv",
+      "example": "We will arrive at seven.",
+      "exampleTranslation": "우리는 7시에 도착할 것이다."
+    },
+    {
+      "term": "borrow",
+      "meaning": "빌리다",
+      "phonetic": "bˈɑɹˌoʊ",
+      "example": "Can I borrow your pen?",
+      "exampleTranslation": "펜을 빌려도 될까요?"
+    },
+    {
+      "term": "cancel",
+      "meaning": "취소하다",
+      "phonetic": "kˈænsəl",
+      "example": "She had to cancel her trip.",
+      "exampleTranslation": "그녀는 여행을 취소해야 했다."
+    },
+    {
+      "term": "check",
+      "meaning": "확인하다",
+      "phonetic": "tʃˈɛk",
+      "example": "Please check your email.",
+      "exampleTranslation": "이메일을 확인해 주세요."
+    },
+    {
+      "term": "collect",
+      "meaning": "수집하다",
+      "phonetic": "kəlˈɛkt",
+      "example": "He collects old coins.",
+      "exampleTranslation": "그는 오래된 동전을 수집한다."
+    },
+    {
+      "term": "contact",
+      "meaning": "연락하다",
+      "phonetic": "kˈɑntˌækt",
+      "example": "Please contact us anytime.",
+      "exampleTranslation": "언제든지 저희에게 연락해 주세요."
+    },
+    {
+      "term": "cost",
+      "meaning": "비용, 비용이 들다",
+      "phonetic": "kˈɑst",
+      "example": "This bag costs fifty dollars.",
+      "exampleTranslation": "이 가방은 50달러이다."
+    },
+    {
+      "term": "customer",
+      "meaning": "고객",
+      "phonetic": "kˈʌstəmɚ",
+      "example": "The store treats every customer kindly.",
+      "exampleTranslation": "그 가게는 모든 고객을 친절하게 대한다."
+    },
+    {
+      "term": "decision",
+      "meaning": "결정",
+      "phonetic": "dɪsˈɪʒən",
+      "example": "It was a hard decision to make.",
+      "exampleTranslation": "그것은 내리기 어려운 결정이었다."
+    },
+    {
+      "term": "department",
+      "meaning": "부서",
+      "phonetic": "dɪpˈɑɹtmənt",
+      "example": "He works in the sales department.",
+      "exampleTranslation": "그는 영업 부서에서 일한다."
+    },
+    {
+      "term": "document",
+      "meaning": "문서",
+      "phonetic": "dˈɑkjəmɛnt",
+      "example": "Please sign this document.",
+      "exampleTranslation": "이 문서에 서명해 주세요."
+    },
+    {
+      "term": "employee",
+      "meaning": "직원",
+      "phonetic": "ɛmplˈɔɪi",
+      "example": "The new employee started today.",
+      "exampleTranslation": "새 직원이 오늘 일을 시작했다."
+    },
+    {
+      "term": "employer",
+      "meaning": "고용주",
+      "phonetic": "ɛmplˈɔɪɚ",
+      "example": "My employer gave me a bonus.",
+      "exampleTranslation": "내 고용주가 나에게 보너스를 주었다."
+    },
+    {
+      "term": "equipment",
+      "meaning": "장비",
+      "phonetic": "ɪkwˈɪpmənt",
+      "example": "The gym has new equipment.",
+      "exampleTranslation": "그 체육관은 새 장비를 갖추고 있다."
+    },
+    {
+      "term": "information",
+      "meaning": "정보",
+      "phonetic": "ˌɪnfɚmˈeɪʃən",
+      "example": "Can you give me more information?",
+      "exampleTranslation": "더 많은 정보를 주시겠어요?"
+    },
+    {
+      "term": "meeting",
+      "meaning": "회의",
+      "phonetic": "mˈitɪŋ",
+      "example": "The meeting lasted two hours.",
+      "exampleTranslation": "그 회의는 두 시간 동안 지속되었다."
+    },
+    {
+      "term": "order",
+      "meaning": "주문, 명령, 주문하다",
+      "phonetic": "ˈɔɹdɚ",
+      "example": "I'd like to place an order.",
+      "exampleTranslation": "주문을 하고 싶어요."
+    },
+    {
+      "term": "payment",
+      "meaning": "지불",
+      "phonetic": "pˈeɪmənt",
+      "example": "The payment is due next week.",
+      "exampleTranslation": "지불 기한은 다음 주이다."
+    },
+    {
+      "term": "price",
+      "meaning": "가격",
+      "phonetic": "pɹˈaɪs",
+      "example": "The price of the ticket went up.",
+      "exampleTranslation": "표 가격이 올랐다."
+    },
+    {
+      "term": "product",
+      "meaning": "제품",
+      "phonetic": "pɹˈɑdəkt",
+      "example": "This is our newest product.",
+      "exampleTranslation": "이것은 우리의 최신 제품이다."
+    },
+    {
+      "term": "project",
+      "meaning": "프로젝트",
+      "phonetic": "pɹˈɑdʒɛkt",
+      "example": "We finished the project on time.",
+      "exampleTranslation": "우리는 제시간에 프로젝트를 끝냈다."
+    },
+    {
+      "term": "purchase",
+      "meaning": "구매하다",
+      "phonetic": "pˈɝtʃəs",
+      "example": "I made a purchase online.",
+      "exampleTranslation": "나는 온라인으로 구매했다."
+    },
+    {
+      "term": "schedule",
+      "meaning": "일정",
+      "phonetic": "skˈɛdʒʊl",
+      "example": "My schedule is full this week.",
+      "exampleTranslation": "이번 주에는 내 일정이 꽉 찼다."
+    },
+    {
+      "term": "service",
+      "meaning": "서비스",
+      "phonetic": "sˈɝvəs",
+      "example": "The restaurant has friendly service.",
+      "exampleTranslation": "그 식당은 친절한 서비스를 제공한다."
+    },
+    {
+      "term": "staff",
+      "meaning": "직원",
+      "phonetic": "stˈæf",
+      "example": "The staff were very helpful.",
+      "exampleTranslation": "직원들이 매우 도움이 되었다."
+    },
+    {
+      "term": "supplier",
+      "meaning": "공급업체",
+      "phonetic": "səplˈaɪɚ",
+      "example": "We found a new supplier.",
+      "exampleTranslation": "우리는 새 공급업체를 찾았다."
+    },
+    {
+      "term": "task",
+      "meaning": "업무",
+      "phonetic": "tˈæsk",
+      "example": "I finished all my tasks today.",
+      "exampleTranslation": "나는 오늘 모든 업무를 끝냈다."
+    },
+    {
+      "term": "appointment",
+      "meaning": "약속, 예약",
+      "phonetic": "əpˈɔɪntmənt",
+      "example": "I have a dentist appointment tomorrow.",
+      "exampleTranslation": "나는 내일 치과 예약이 있다."
+    },
+    {
+      "term": "business",
+      "meaning": "사업, 업무",
+      "phonetic": "bˈɪznəs",
+      "example": "She started her own business.",
+      "exampleTranslation": "그녀는 자신의 사업을 시작했다."
+    },
+    {
+      "term": "client",
+      "meaning": "고객",
+      "phonetic": "klˈaɪənt",
+      "example": "The client was happy with our work.",
+      "exampleTranslation": "그 고객은 우리 작업에 만족했다."
+    },
+    {
+      "term": "deadline",
+      "meaning": "마감일",
+      "phonetic": "dˈɛdlˌaɪn",
+      "example": "We missed the deadline.",
+      "exampleTranslation": "우리는 마감일을 놓쳤다."
+    },
+    {
+      "term": "email",
+      "meaning": "이메일",
+      "phonetic": "imˈeɪl",
+      "example": "I sent you an email yesterday.",
+      "exampleTranslation": "나는 어제 당신에게 이메일을 보냈다."
+    },
+    {
+      "term": "prepare",
+      "meaning": "준비하다",
+      "phonetic": "pɹipˈɛɹ",
+      "example": "We need to prepare for the exam.",
+      "exampleTranslation": "우리는 시험을 준비해야 한다."
+    },
+    {
+      "term": "report",
+      "meaning": "보고서, 보고하다",
+      "phonetic": "ɹipˈɔɹt",
+      "example": "She wrote a detailed report.",
+      "exampleTranslation": "그녀는 상세한 보고서를 작성했다."
+    },
+    {
+      "term": "request",
+      "meaning": "요청, 요청하다",
+      "phonetic": "ɹɪkwˈɛst",
+      "example": "He made a special request.",
+      "exampleTranslation": "그는 특별한 요청을 했다."
+    },
+    {
+      "term": "reply",
+      "meaning": "답장, 답하다",
+      "phonetic": "ɹɪplˈaɪ",
+      "example": "Please reply as soon as possible.",
+      "exampleTranslation": "가능한 한 빨리 답장해 주세요."
+    },
+    {
+      "term": "urgent",
+      "meaning": "긴급한",
+      "phonetic": "ˈɝdʒənt",
+      "example": "This is an urgent matter.",
+      "exampleTranslation": "이것은 긴급한 사안이다."
+    },
+    {
+      "term": "airport",
+      "meaning": "공항",
+      "phonetic": "ˈɛɹpˌɔɹt",
+      "example": "My father picked me up at the airport.",
+      "exampleTranslation": "아버지가 공항으로 나를 데리러 오셨다."
+    },
+    {
+      "term": "departure",
+      "meaning": "출발",
+      "phonetic": "dɪpˈɑɹtʃɚ",
+      "example": "Our departure time is early morning.",
+      "exampleTranslation": "우리의 출발 시간은 이른 아침이다."
+    },
+    {
+      "term": "destination",
+      "meaning": "목적지",
+      "phonetic": "dˌɛstənˈeɪʃən",
+      "example": "We finally reached our destination.",
+      "exampleTranslation": "우리는 마침내 목적지에 도착했다."
+    },
+    {
+      "term": "flight",
+      "meaning": "항공편",
+      "phonetic": "flˈaɪt",
+      "example": "The flight took ten hours.",
+      "exampleTranslation": "그 항공편은 10시간이 걸렸다."
+    },
+    {
+      "term": "hotel",
+      "meaning": "호텔",
+      "phonetic": "hoʊtˈɛl",
+      "example": "The hotel room had a nice view.",
+      "exampleTranslation": "그 호텔 방은 전망이 좋았다."
+    },
+    {
+      "term": "luggage",
+      "meaning": "수하물",
+      "phonetic": "lˈʌɡədʒ",
+      "example": "Don't forget your luggage.",
+      "exampleTranslation": "짐을 잊지 마세요."
+    },
+    {
+      "term": "passport",
+      "meaning": "여권",
+      "phonetic": "pˈæspˌɔɹt",
+      "example": "You need a passport to travel abroad.",
+      "exampleTranslation": "해외여행을 하려면 여권이 필요하다."
+    },
+    {
+      "term": "reservation",
+      "meaning": "예약",
+      "phonetic": "ɹˌɛzɚvˈeɪʃən",
+      "example": "Do you have a reservation?",
+      "exampleTranslation": "예약하셨나요?"
+    },
+    {
+      "term": "ticket",
+      "meaning": "표, 티켓",
+      "phonetic": "tˈɪkət",
+      "example": "Where can I buy a ticket?",
+      "exampleTranslation": "표는 어디서 살 수 있나요?"
+    },
+    {
+      "term": "station",
+      "meaning": "역",
+      "phonetic": "stˈeɪʃən",
+      "example": "Meet me at the station at nine.",
+      "exampleTranslation": "9시에 역에서 만나요."
+    },
+    {
+      "term": "train",
+      "meaning": "기차",
+      "phonetic": "tɹˈeɪn",
+      "example": "We missed the last train.",
+      "exampleTranslation": "우리는 마지막 기차를 놓쳤다."
+    },
+    {
+      "term": "bus",
+      "meaning": "버스",
+      "phonetic": "bˈʌs",
+      "example": "The bus was very crowded.",
+      "exampleTranslation": "그 버스는 매우 붐볐다."
+    },
+    {
+      "term": "subway",
+      "meaning": "지하철",
+      "phonetic": "sˈʌbwˌeɪ",
+      "example": "I take the subway to work.",
+      "exampleTranslation": "나는 지하철로 출근한다."
+    },
+    {
+      "term": "taxi",
+      "meaning": "택시",
+      "phonetic": "tˈæksi",
+      "example": "We took a taxi because it was raining.",
+      "exampleTranslation": "비가 와서 우리는 택시를 탔다."
+    },
+    {
+      "term": "restaurant",
+      "meaning": "식당",
+      "phonetic": "ɹˈɛstɚˌɑnt",
+      "example": "Let's try that new restaurant.",
+      "exampleTranslation": "저 새 식당을 가봅시다."
+    },
+    {
+      "term": "menu",
+      "meaning": "메뉴",
+      "phonetic": "mˈɛnju",
+      "example": "The menu has many vegetarian options.",
+      "exampleTranslation": "그 메뉴에는 채식 옵션이 많다."
+    },
+    {
+      "term": "bill",
+      "meaning": "계산서",
+      "phonetic": "bˈɪl",
+      "example": "The waiter brought the bill.",
+      "exampleTranslation": "종업원이 계산서를 가져왔다."
+    },
+    {
+      "term": "receipt",
+      "meaning": "영수증",
+      "phonetic": "ɹɪsˈit",
+      "example": "Don't lose your receipt.",
+      "exampleTranslation": "영수증을 잃어버리지 마세요."
+    },
+    {
+      "term": "water",
+      "meaning": "물",
+      "phonetic": "wˈɔtɚ",
+      "example": "Drink more water in summer.",
+      "exampleTranslation": "여름에는 물을 더 마시세요."
+    },
+    {
+      "term": "coffee",
+      "meaning": "커피",
+      "phonetic": "kˈɑfi",
+      "example": "Would you like some coffee?",
+      "exampleTranslation": "커피 좀 드시겠어요?"
+    },
+    {
+      "term": "breakfast",
+      "meaning": "아침 식사",
+      "phonetic": "bɹˈɛkfəst",
+      "example": "I never skip breakfast.",
+      "exampleTranslation": "나는 아침을 절대 거르지 않는다."
+    },
+    {
+      "term": "lunch",
+      "meaning": "점심 식사",
+      "phonetic": "lˈʌntʃ",
+      "example": "We had lunch together.",
+      "exampleTranslation": "우리는 함께 점심을 먹었다."
+    },
+    {
+      "term": "dinner",
+      "meaning": "저녁 식사",
+      "phonetic": "dˈɪnɚ",
+      "example": "Dinner will be ready soon.",
+      "exampleTranslation": "저녁이 곧 준비될 거예요."
+    },
+    {
+      "term": "left",
+      "meaning": "왼쪽",
+      "phonetic": "lˈɛft",
+      "example": "Turn left at the light.",
+      "exampleTranslation": "신호등에서 왼쪽으로 도세요."
+    },
+    {
+      "term": "right",
+      "meaning": "오른쪽",
+      "phonetic": "ɹˈaɪt",
+      "example": "The store is on the right.",
+      "exampleTranslation": "그 가게는 오른쪽에 있다."
+    },
+    {
+      "term": "straight",
+      "meaning": "곧장",
+      "phonetic": "stɹˈeɪt",
+      "example": "Just go straight ahead.",
+      "exampleTranslation": "그냥 앞으로 곧장 가세요."
+    },
+    {
+      "term": "near",
+      "meaning": "가까운",
+      "phonetic": "nˈɪɹ",
+      "example": "The park is near my house.",
+      "exampleTranslation": "그 공원은 우리 집 근처에 있다."
+    },
+    {
+      "term": "far",
+      "meaning": "먼",
+      "phonetic": "fˈɑɹ",
+      "example": "How far is the beach from here?",
+      "exampleTranslation": "여기서 해변까지 얼마나 먼가요?"
+    },
+    {
+      "term": "entrance",
+      "meaning": "입구",
+      "phonetic": "ˈɛntɹəns",
+      "example": "Wait for me at the entrance.",
+      "exampleTranslation": "입구에서 저를 기다려주세요."
+    },
+    {
+      "term": "exit",
+      "meaning": "출구",
+      "phonetic": "ˈɛɡzɪt",
+      "example": "Please use the emergency exit.",
+      "exampleTranslation": "비상 출구를 이용해 주세요."
+    },
+    {
+      "term": "open",
+      "meaning": "열린, 열다",
+      "phonetic": "ˈoʊpən",
+      "example": "The store opens at ten.",
+      "exampleTranslation": "그 가게는 10시에 연다."
+    },
+    {
+      "term": "closed",
+      "meaning": "닫힌",
+      "phonetic": "klˈoʊzd",
+      "example": "The museum is closed on Mondays.",
+      "exampleTranslation": "그 박물관은 월요일에 문을 닫는다."
+    },
+    {
+      "term": "help",
+      "meaning": "도움, 돕다",
+      "phonetic": "hˈɛlp",
+      "example": "Do you need any help?",
+      "exampleTranslation": "도움이 필요하신가요?"
+    },
+    {
+      "term": "problem",
+      "meaning": "문제",
+      "phonetic": "pɹˈɑbləm",
+      "example": "We solved the problem together.",
+      "exampleTranslation": "우리는 함께 그 문제를 해결했다."
+    },
+    {
+      "term": "lost",
+      "meaning": "길을 잃은",
+      "phonetic": "lˈɔst",
+      "example": "The child looked lost in the mall.",
+      "exampleTranslation": "그 아이는 쇼핑몰에서 길을 잃은 것처럼 보였다."
+    },
+    {
+      "term": "safe",
+      "meaning": "안전한",
+      "phonetic": "sˈeɪf",
+      "example": "Keep your bag safe.",
+      "exampleTranslation": "가방을 안전하게 보관하세요."
+    },
+    {
+      "term": "dangerous",
+      "meaning": "위험한",
+      "phonetic": "dˈeɪndʒɚəs",
+      "example": "The road is dangerous at night.",
+      "exampleTranslation": "그 도로는 밤에 위험하다."
+    },
+    {
+      "term": "emergency",
+      "meaning": "응급 상황",
+      "phonetic": "ɪmˈɝdʒənsi",
+      "example": "In case of emergency, call this number.",
+      "exampleTranslation": "응급 상황 시 이 번호로 전화하세요."
+    },
+    {
+      "term": "where",
+      "meaning": "어디",
+      "phonetic": "wˈɛɹ",
+      "example": "Where are you going?",
+      "exampleTranslation": "어디에 가시나요?"
+    },
+    {
+      "term": "when",
+      "meaning": "언제",
+      "phonetic": "wˈɛn",
+      "example": "When does the movie start?",
+      "exampleTranslation": "영화가 언제 시작하나요?"
+    },
+    {
+      "term": "what",
+      "meaning": "무엇",
+      "phonetic": "wˈʌt",
+      "example": "What do you want for dinner?",
+      "exampleTranslation": "저녁으로 뭐 드시고 싶으세요?"
+    },
+    {
+      "term": "which",
+      "meaning": "어느 것",
+      "phonetic": "wˈɪtʃ",
+      "example": "Which one do you prefer?",
+      "exampleTranslation": "어느 것을 선호하시나요?"
+    },
+    {
+      "term": "how",
+      "meaning": "어떻게",
+      "phonetic": "hˈaʊ",
+      "example": "How do you make this dish?",
+      "exampleTranslation": "이 요리는 어떻게 만드나요?"
+    },
+    {
+      "term": "please",
+      "meaning": "부디, ~해주세요",
+      "phonetic": "plˈiz",
+      "example": "Please sit down.",
+      "exampleTranslation": "앉아주세요."
+    },
+    {
+      "term": "thank",
+      "meaning": "감사하다",
+      "phonetic": "θˈæŋk",
+      "example": "I want to thank you for your help.",
+      "exampleTranslation": "도와주셔서 감사드리고 싶어요."
+    },
+    {
+      "term": "sorry",
+      "meaning": "미안합니다",
+      "phonetic": "sˈɑɹi",
+      "example": "I'm sorry for being late.",
+      "exampleTranslation": "늦어서 죄송합니다."
+    },
+    {
+      "term": "excuse",
+      "meaning": "실례하다",
+      "phonetic": "ɪkskjˈus",
+      "example": "Excuse me, is this seat taken?",
+      "exampleTranslation": "실례합니다, 이 자리 사람 있나요?"
+    },
+    {
+      "term": "welcome",
+      "meaning": "환영하다",
+      "phonetic": "wˈɛlkəm",
+      "example": "Welcome to our home.",
+      "exampleTranslation": "우리 집에 오신 것을 환영합니다."
+    },
+    {
+      "term": "cheap",
+      "meaning": "싼",
+      "phonetic": "tʃˈip",
+      "example": "This restaurant is cheap but good.",
+      "exampleTranslation": "이 식당은 싸지만 맛있다."
+    },
+    {
+      "term": "expensive",
+      "meaning": "비싼",
+      "phonetic": "ɪkspˈɛnsɪv",
+      "example": "That watch looks expensive.",
+      "exampleTranslation": "저 시계는 비싸 보인다."
+    },
+    {
+      "term": "discount",
+      "meaning": "할인",
+      "phonetic": "dɪskˈaʊnt",
+      "example": "We got a discount on the tickets.",
+      "exampleTranslation": "우리는 표에 대해 할인을 받았다."
+    },
+    {
+      "term": "size",
+      "meaning": "크기",
+      "phonetic": "sˈaɪz",
+      "example": "What size do you wear?",
+      "exampleTranslation": "어떤 사이즈를 입으세요?"
+    },
+    {
+      "term": "color",
+      "meaning": "색깔",
+      "phonetic": "kˈʌlɚ",
+      "example": "What color do you like best?",
+      "exampleTranslation": "어떤 색을 가장 좋아하세요?"
+    },
+    {
+      "term": "small",
+      "meaning": "작은",
+      "phonetic": "smˈɔl",
+      "example": "This room is quite small.",
+      "exampleTranslation": "이 방은 꽤 작다."
+    },
+    {
+      "term": "large",
+      "meaning": "큰",
+      "phonetic": "lˈɑɹdʒ",
+      "example": "They bought a large house.",
+      "exampleTranslation": "그들은 큰 집을 샀다."
+    },
+    {
+      "term": "different",
+      "meaning": "다른",
+      "phonetic": "dˈɪfɚənt",
+      "example": "Every country has different customs.",
+      "exampleTranslation": "모든 나라는 다른 관습을 가지고 있다."
+    },
+    {
+      "term": "same",
+      "meaning": "같은",
+      "phonetic": "sˈeɪm",
+      "example": "We wore the same shirt by accident.",
+      "exampleTranslation": "우리는 우연히 같은 셔츠를 입었다."
+    },
+    {
+      "term": "morning",
+      "meaning": "아침",
+      "phonetic": "mˈɔɹnɪŋ",
+      "example": "I go jogging every morning.",
+      "exampleTranslation": "나는 매일 아침 조깅을 한다."
+    },
+    {
+      "term": "afternoon",
+      "meaning": "오후",
+      "phonetic": "ˌæftɚnˈun",
+      "example": "Let's meet in the afternoon.",
+      "exampleTranslation": "오후에 만납시다."
+    },
+    {
+      "term": "evening",
+      "meaning": "저녁",
+      "phonetic": "ˈivnɪŋ",
+      "example": "The evening was cool and quiet.",
+      "exampleTranslation": "저녁은 시원하고 조용했다."
+    },
+    {
+      "term": "tonight",
+      "meaning": "오늘 밤",
+      "phonetic": "tənˈaɪt",
+      "example": "What are you doing tonight?",
+      "exampleTranslation": "오늘 밤에 뭐 하세요?"
+    },
+    {
+      "term": "tomorrow",
+      "meaning": "내일",
+      "phonetic": "təmˈɑɹˌoʊ",
+      "example": "See you tomorrow.",
+      "exampleTranslation": "내일 봐요."
+    },
+    {
+      "term": "today",
+      "meaning": "오늘",
+      "phonetic": "tədˈeɪ",
+      "example": "Today is a special day.",
+      "exampleTranslation": "오늘은 특별한 날이다."
+    },
+    {
+      "term": "yesterday",
+      "meaning": "어제",
+      "phonetic": "jˈɛstɚdˌeɪ",
+      "example": "It rained yesterday.",
+      "exampleTranslation": "어제 비가 왔다."
+    },
+    {
+      "term": "week",
+      "meaning": "주",
+      "phonetic": "wˈik",
+      "example": "I'll see you next week.",
+      "exampleTranslation": "다음 주에 봐요."
+    },
+    {
+      "term": "month",
+      "meaning": "달",
+      "phonetic": "mˈʌnθ",
+      "example": "This is my first month here.",
+      "exampleTranslation": "이곳에서 저의 첫 달이에요."
+    },
+    {
+      "term": "year",
+      "meaning": "년",
+      "phonetic": "jˈɪɹ",
+      "example": "This year has gone by fast.",
+      "exampleTranslation": "올해는 빨리 지나갔다."
+    },
+    {
+      "term": "always",
+      "meaning": "항상",
+      "phonetic": "ˈɔlwˌeɪz",
+      "example": "She always smiles.",
+      "exampleTranslation": "그녀는 항상 미소 짓는다."
+    },
+    {
+      "term": "usually",
+      "meaning": "보통",
+      "phonetic": "jˈuʒəwəli",
+      "example": "I usually walk to work.",
+      "exampleTranslation": "나는 보통 걸어서 출근한다."
+    },
+    {
+      "term": "often",
+      "meaning": "자주",
+      "phonetic": "ˈɔfən",
+      "example": "We often eat out on weekends.",
+      "exampleTranslation": "우리는 주말에 자주 외식을 한다."
+    },
+    {
+      "term": "sometimes",
+      "meaning": "가끔",
+      "phonetic": "səmtˈaɪmz",
+      "example": "Sometimes I forget my keys.",
+      "exampleTranslation": "가끔 나는 열쇠를 깜빡한다."
+    },
+    {
+      "term": "never",
+      "meaning": "결코 ~않다",
+      "phonetic": "nˈɛvɚ",
+      "example": "I never eat breakfast.",
+      "exampleTranslation": "나는 아침을 절대 먹지 않는다."
+    },
+    {
+      "term": "early",
+      "meaning": "일찍",
+      "phonetic": "ˈɝli",
+      "example": "We got up early today.",
+      "exampleTranslation": "우리는 오늘 일찍 일어났다."
+    },
+    {
+      "term": "late",
+      "meaning": "늦게",
+      "phonetic": "lˈeɪt",
+      "example": "Sorry, I woke up late.",
+      "exampleTranslation": "죄송해요, 늦게 일어났어요."
+    },
+    {
+      "term": "soon",
+      "meaning": "곧",
+      "phonetic": "sˈun",
+      "example": "The bus will arrive soon.",
+      "exampleTranslation": "버스가 곧 도착할 것이다."
+    },
+    {
+      "term": "already",
+      "meaning": "이미",
+      "phonetic": "ɔlɹˈɛdi",
+      "example": "I have already finished my homework.",
+      "exampleTranslation": "나는 이미 숙제를 끝냈다."
+    },
+    {
+      "term": "again",
+      "meaning": "다시",
+      "phonetic": "əɡˈɛn",
+      "example": "Can you say that again?",
+      "exampleTranslation": "다시 말해주시겠어요?"
+    },
+    {
+      "term": "remember",
+      "meaning": "기억하다",
+      "phonetic": "ɹɪmˈɛmbɚ",
+      "example": "I still remember her name.",
+      "exampleTranslation": "나는 아직도 그녀의 이름을 기억한다."
+    },
+    {
+      "term": "forget",
+      "meaning": "잊다",
+      "phonetic": "fɚɡˈɛt",
+      "example": "Don't forget your umbrella.",
+      "exampleTranslation": "우산을 잊지 마세요."
+    },
+    {
+      "term": "learn",
+      "meaning": "배우다",
+      "phonetic": "lˈɝn",
+      "example": "Children learn fast.",
+      "exampleTranslation": "아이들은 빨리 배운다."
+    },
+    {
+      "term": "study",
+      "meaning": "공부하다",
+      "phonetic": "stˈʌdi",
+      "example": "She studies every night.",
+      "exampleTranslation": "그녀는 매일 밤 공부한다."
+    },
+    {
+      "term": "practice",
+      "meaning": "연습, 연습하다",
+      "phonetic": "pɹˈæktəs",
+      "example": "Practice makes perfect.",
+      "exampleTranslation": "연습이 완벽을 만든다."
+    },
+    {
+      "term": "repeat",
+      "meaning": "반복하다",
+      "phonetic": "ɹɪpˈit",
+      "example": "Could you repeat that, please?",
+      "exampleTranslation": "다시 말씀해 주시겠어요?"
+    },
+    {
+      "term": "review",
+      "meaning": "복습하다",
+      "phonetic": "ɹˌivjˈu",
+      "example": "Let's review the lesson.",
+      "exampleTranslation": "그 수업을 복습합시다."
+    },
+    {
+      "term": "question",
+      "meaning": "질문",
+      "phonetic": "kwˈɛstʃən",
+      "example": "I have a question for you.",
+      "exampleTranslation": "당신에게 질문이 있어요."
+    },
+    {
+      "term": "answer",
+      "meaning": "답",
+      "phonetic": "ˈænsɚ",
+      "example": "She knew the answer right away.",
+      "exampleTranslation": "그녀는 답을 바로 알았다."
+    },
+    {
+      "term": "correct",
+      "meaning": "맞는, 정확한",
+      "phonetic": "kɚˈɛkt",
+      "example": "Your answer is correct.",
+      "exampleTranslation": "당신의 답이 맞아요."
+    },
+    {
+      "term": "wrong",
+      "meaning": "틀린",
+      "phonetic": "ɹˈɔŋ",
+      "example": "I think this number is wrong.",
+      "exampleTranslation": "이 번호가 틀린 것 같아요."
+    },
+    {
+      "term": "easy",
+      "meaning": "쉬운",
+      "phonetic": "ˈizi",
+      "example": "This test was very easy.",
+      "exampleTranslation": "이 시험은 매우 쉬웠다."
+    },
+    {
+      "term": "difficult",
+      "meaning": "어려운",
+      "phonetic": "dˈɪfəkəlt",
+      "example": "Chinese grammar is difficult for me.",
+      "exampleTranslation": "중국어 문법은 나에게 어렵다."
+    },
+    {
+      "term": "important",
+      "meaning": "중요한",
+      "phonetic": "ˌɪmpˈɔɹtənt",
+      "example": "Sleep is important for your health.",
+      "exampleTranslation": "수면은 건강에 중요하다."
+    },
+    {
+      "term": "ready",
+      "meaning": "준비된",
+      "phonetic": "ɹˈɛdi",
+      "example": "Are you ready to go?",
+      "exampleTranslation": "갈 준비 되셨나요?"
+    },
+    {
+      "term": "start",
+      "meaning": "시작하다",
+      "phonetic": "stˈɑɹt",
+      "example": "The movie starts at eight.",
+      "exampleTranslation": "영화는 8시에 시작한다."
+    },
+    {
+      "term": "finish",
+      "meaning": "끝내다",
+      "phonetic": "fˈɪnɪʃ",
+      "example": "I finished my work early today.",
+      "exampleTranslation": "나는 오늘 일을 일찍 끝냈다."
+    },
+    {
+      "term": "stop",
+      "meaning": "멈추다",
+      "phonetic": "stˈɑp",
+      "example": "The car stopped suddenly.",
+      "exampleTranslation": "그 차는 갑자기 멈췄다."
+    },
+    {
+      "term": "try",
+      "meaning": "시도하다",
+      "phonetic": "tɹˈaɪ",
+      "example": "Just try your best.",
+      "exampleTranslation": "그냥 최선을 다해 보세요."
+    },
+    {
+      "term": "success",
+      "meaning": "성공",
+      "phonetic": "səksˈɛs",
+      "example": "Hard work leads to success.",
+      "exampleTranslation": "노력은 성공으로 이어진다."
+    },
+    {
+      "term": "failure",
+      "meaning": "실패",
+      "phonetic": "fˈeɪljɚ",
+      "example": "Failure taught him a lot.",
+      "exampleTranslation": "실패는 그에게 많은 것을 가르쳐 주었다."
+    },
+    {
+      "term": "progress",
+      "meaning": "진전",
+      "phonetic": "pɹˈɑɡɹˌɛs",
+      "example": "We made good progress today.",
+      "exampleTranslation": "우리는 오늘 좋은 진전을 이루었다."
+    },
+    {
+      "term": "habit",
+      "meaning": "습관",
+      "phonetic": "hˈæbət",
+      "example": "Reading before bed is a good habit.",
+      "exampleTranslation": "자기 전에 책을 읽는 것은 좋은 습관이다."
+    },
+    {
+      "term": "daily",
+      "meaning": "매일의",
+      "phonetic": "dˈeɪli",
+      "example": "Walking is part of my daily routine.",
+      "exampleTranslation": "걷기는 나의 일상 루틴의 일부이다."
+    },
+    {
+      "term": "plan",
+      "meaning": "계획",
+      "phonetic": "plˈæn",
+      "example": "What's your plan for the weekend?",
+      "exampleTranslation": "주말 계획이 무엇인가요?"
+    },
+    {
+      "term": "strong",
+      "meaning": "강한",
+      "phonetic": "stɹˈɔŋ",
+      "example": "He has strong arms.",
+      "exampleTranslation": "그는 팔이 강하다."
+    },
+    {
+      "term": "weak",
+      "meaning": "약한",
+      "phonetic": "wˈik",
+      "example": "The signal is weak here.",
+      "exampleTranslation": "여기는 신호가 약하다."
+    },
+    {
+      "term": "fast",
+      "meaning": "빠른",
+      "phonetic": "fˈæst",
+      "example": "She runs very fast.",
+      "exampleTranslation": "그녀는 매우 빠르게 달린다."
+    },
+    {
+      "term": "slow",
+      "meaning": "느린",
+      "phonetic": "slˈoʊ",
+      "example": "The internet here is slow.",
+      "exampleTranslation": "이곳의 인터넷은 느리다."
+    },
+    {
+      "term": "example",
+      "meaning": "예시",
+      "phonetic": "ɪɡzˈæmpəl",
+      "example": "Can you give me an example?",
+      "exampleTranslation": "예시를 하나 들어주시겠어요?"
+    },
+    {
+      "term": "meaning",
+      "meaning": "의미",
+      "phonetic": "mˈinɪŋ",
+      "example": "What is the meaning of this word?",
+      "exampleTranslation": "이 단어의 의미는 무엇인가요?"
+    },
+    {
+      "term": "sentence",
+      "meaning": "문장",
+      "phonetic": "sˈɛntəns",
+      "example": "Write a sentence using this word.",
+      "exampleTranslation": "이 단어를 사용해서 문장을 쓰세요."
+    },
+    {
+      "term": "word",
+      "meaning": "단어",
+      "phonetic": "wˈɝd",
+      "example": "I don't know this word.",
+      "exampleTranslation": "나는 이 단어를 모른다."
+    },
+    {
+      "term": "language",
+      "meaning": "언어",
+      "phonetic": "lˈæŋɡwədʒ",
+      "example": "She speaks three languages.",
+      "exampleTranslation": "그녀는 세 개의 언어를 구사한다."
+    }
+  ]
+}

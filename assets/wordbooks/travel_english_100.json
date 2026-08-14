@@ -1,0 +1,663 @@
+{
+  "id": "travel_english_100",
+  "name": "여행 영어",
+  "description": "공항, 호텔, 식당, 교통에서 바로 쓸 수 있는 표현",
+  "language": "en",
+  "category": "여행",
+  "version": 1,
+  "items": [
+    {
+      "term": "airport",
+      "meaning": "공항",
+      "phonetic": "ˈɛɹpˌɔɹt",
+      "example": "We arrived at the airport two hours early.",
+      "exampleTranslation": "우리는 공항에 두 시간 일찍 도착했다."
+    },
+    {
+      "term": "passport",
+      "meaning": "여권",
+      "phonetic": "pˈæspˌɔɹt",
+      "example": "Please show me your passport.",
+      "exampleTranslation": "여권을 보여주세요."
+    },
+    {
+      "term": "ticket",
+      "meaning": "표",
+      "phonetic": "tˈɪkət",
+      "example": "I bought two tickets for the concert.",
+      "exampleTranslation": "나는 콘서트 표 두 장을 샀다."
+    },
+    {
+      "term": "flight",
+      "meaning": "항공편",
+      "phonetic": "flˈaɪt",
+      "example": "Our flight leaves at nine in the morning.",
+      "exampleTranslation": "우리 항공편은 아침 9시에 출발한다."
+    },
+    {
+      "term": "boarding pass",
+      "meaning": "탑승권",
+      "phonetic": "bˈɔɹdɪŋ pˈæs",
+      "example": "You need your boarding pass to enter the gate.",
+      "exampleTranslation": "탑승구에 들어가려면 탑승권이 필요하다."
+    },
+    {
+      "term": "check-in",
+      "meaning": "체크인",
+      "phonetic": "tʃˈɛk ɪn",
+      "example": "Check-in starts three hours before departure.",
+      "exampleTranslation": "체크인은 출발 세 시간 전에 시작된다."
+    },
+    {
+      "term": "departure",
+      "meaning": "출발",
+      "phonetic": "dɪpˈɑɹtʃɚ",
+      "example": "The departure time changed to noon.",
+      "exampleTranslation": "출발 시간이 정오로 바뀌었다."
+    },
+    {
+      "term": "arrival",
+      "meaning": "도착",
+      "phonetic": "ɚˈaɪvəl",
+      "example": "We watched the arrival board for updates.",
+      "exampleTranslation": "우리는 도착 안내판을 보며 소식을 확인했다."
+    },
+    {
+      "term": "gate",
+      "meaning": "탑승구",
+      "phonetic": "ɡˈeɪt",
+      "example": "The gate closes ten minutes before takeoff.",
+      "exampleTranslation": "탑승구는 이륙 10분 전에 닫힌다."
+    },
+    {
+      "term": "luggage",
+      "meaning": "수하물",
+      "phonetic": "lˈʌɡədʒ",
+      "example": "She checked her luggage at the counter.",
+      "exampleTranslation": "그녀는 카운터에서 수하물을 부쳤다."
+    },
+    {
+      "term": "baggage claim",
+      "meaning": "수하물 찾는 곳",
+      "phonetic": "bˈæɡədʒ klˈeɪm",
+      "example": "We waited at the baggage claim for our bags.",
+      "exampleTranslation": "우리는 짐을 찾으러 수하물 찾는 곳에서 기다렸다."
+    },
+    {
+      "term": "customs",
+      "meaning": "세관",
+      "phonetic": "kˈʌstəmz",
+      "example": "We went through customs without any problems.",
+      "exampleTranslation": "우리는 문제없이 세관을 통과했다."
+    },
+    {
+      "term": "immigration",
+      "meaning": "출입국 심사",
+      "phonetic": "ˌɪməɡɹˈeɪʃən",
+      "example": "The immigration line was very long.",
+      "exampleTranslation": "출입국 심사 줄이 매우 길었다."
+    },
+    {
+      "term": "hotel",
+      "meaning": "호텔",
+      "phonetic": "hoʊtˈɛl",
+      "example": "We stayed at a hotel near the beach.",
+      "exampleTranslation": "우리는 해변 근처 호텔에 머물렀다."
+    },
+    {
+      "term": "reservation",
+      "meaning": "예약",
+      "phonetic": "ɹˌɛzɚvˈeɪʃən",
+      "example": "I made a reservation for two nights.",
+      "exampleTranslation": "나는 이틀 밤 예약을 했다."
+    },
+    {
+      "term": "room",
+      "meaning": "방",
+      "phonetic": "ɹˈum",
+      "example": "Our room is on the fifth floor.",
+      "exampleTranslation": "우리 방은 5층에 있다."
+    },
+    {
+      "term": "key",
+      "meaning": "열쇠",
+      "phonetic": "kˈi",
+      "example": "I left my key at the front desk.",
+      "exampleTranslation": "나는 열쇠를 프런트에 두고 왔다."
+    },
+    {
+      "term": "check-out",
+      "meaning": "체크아웃",
+      "phonetic": "tʃˈɛk ˈaʊt",
+      "example": "Check-out time is eleven in the morning.",
+      "exampleTranslation": "체크아웃 시간은 오전 11시이다."
+    },
+    {
+      "term": "reception",
+      "meaning": "프런트 데스크",
+      "phonetic": "ɹɪsˈɛpʃən",
+      "example": "You can ask the reception for a map.",
+      "exampleTranslation": "프런트 데스크에서 지도를 요청할 수 있다."
+    },
+    {
+      "term": "elevator",
+      "meaning": "엘리베이터",
+      "phonetic": "ˈɛləvˌeɪtɚ",
+      "example": "The elevator is next to the stairs.",
+      "exampleTranslation": "엘리베이터는 계단 옆에 있다."
+    },
+    {
+      "term": "restaurant",
+      "meaning": "식당",
+      "phonetic": "ɹˈɛstɚˌɑnt",
+      "example": "We had dinner at a small restaurant.",
+      "exampleTranslation": "우리는 작은 식당에서 저녁을 먹었다."
+    },
+    {
+      "term": "menu",
+      "meaning": "메뉴",
+      "phonetic": "mˈɛnju",
+      "example": "Could I see the menu, please?",
+      "exampleTranslation": "메뉴 좀 보여주시겠어요?"
+    },
+    {
+      "term": "table",
+      "meaning": "테이블",
+      "phonetic": "tˈeɪbəl",
+      "example": "A table for two, please.",
+      "exampleTranslation": "두 명 자리 부탁합니다."
+    },
+    {
+      "term": "bill",
+      "meaning": "계산서",
+      "phonetic": "bˈɪl",
+      "example": "Can we get the bill, please?",
+      "exampleTranslation": "계산서 좀 주시겠어요?"
+    },
+    {
+      "term": "water",
+      "meaning": "물",
+      "phonetic": "wˈɔtɚ",
+      "example": "Could I have a glass of water?",
+      "exampleTranslation": "물 한 잔 주시겠어요?"
+    },
+    {
+      "term": "coffee",
+      "meaning": "커피",
+      "phonetic": "kˈɑfi",
+      "example": "I drink coffee every morning.",
+      "exampleTranslation": "나는 매일 아침 커피를 마신다."
+    },
+    {
+      "term": "breakfast",
+      "meaning": "아침 식사",
+      "phonetic": "bɹˈɛkfəst",
+      "example": "Breakfast is included in the room price.",
+      "exampleTranslation": "아침 식사는 숙박비에 포함되어 있다."
+    },
+    {
+      "term": "lunch",
+      "meaning": "점심 식사",
+      "phonetic": "lˈʌntʃ",
+      "example": "Let's have lunch around noon.",
+      "exampleTranslation": "정오쯤 점심을 먹자."
+    },
+    {
+      "term": "dinner",
+      "meaning": "저녁 식사",
+      "phonetic": "dˈɪnɚ",
+      "example": "We're having dinner with friends tonight.",
+      "exampleTranslation": "우리는 오늘 밤 친구들과 저녁을 먹는다."
+    },
+    {
+      "term": "station",
+      "meaning": "역",
+      "phonetic": "stˈeɪʃən",
+      "example": "The station is a short walk from here.",
+      "exampleTranslation": "역은 여기서 걸어서 금방이다."
+    },
+    {
+      "term": "train",
+      "meaning": "기차",
+      "phonetic": "tɹˈeɪn",
+      "example": "The train arrives every fifteen minutes.",
+      "exampleTranslation": "기차는 15분마다 도착한다."
+    },
+    {
+      "term": "bus",
+      "meaning": "버스",
+      "phonetic": "bˈʌs",
+      "example": "We took the bus to the museum.",
+      "exampleTranslation": "우리는 버스를 타고 박물관에 갔다."
+    },
+    {
+      "term": "subway",
+      "meaning": "지하철",
+      "phonetic": "sˈʌbwˌeɪ",
+      "example": "The subway is the fastest way downtown.",
+      "exampleTranslation": "지하철이 시내로 가는 가장 빠른 방법이다."
+    },
+    {
+      "term": "taxi",
+      "meaning": "택시",
+      "phonetic": "tˈæksi",
+      "example": "We called a taxi to the hotel.",
+      "exampleTranslation": "우리는 호텔로 가는 택시를 불렀다."
+    },
+    {
+      "term": "map",
+      "meaning": "지도",
+      "phonetic": "mˈæp",
+      "example": "Can you show me on the map?",
+      "exampleTranslation": "지도에서 보여주실 수 있나요?"
+    },
+    {
+      "term": "address",
+      "meaning": "주소",
+      "phonetic": "ˈædɹˌɛs",
+      "example": "Please write down the address.",
+      "exampleTranslation": "주소를 적어주세요."
+    },
+    {
+      "term": "street",
+      "meaning": "거리",
+      "phonetic": "stɹˈit",
+      "example": "The shop is on the next street.",
+      "exampleTranslation": "그 가게는 다음 거리에 있다."
+    },
+    {
+      "term": "left",
+      "meaning": "왼쪽",
+      "phonetic": "lˈɛft",
+      "example": "The bank is on your left.",
+      "exampleTranslation": "은행은 왼쪽에 있다."
+    },
+    {
+      "term": "right",
+      "meaning": "오른쪽",
+      "phonetic": "ɹˈaɪt",
+      "example": "Turn right at the corner.",
+      "exampleTranslation": "모퉁이에서 오른쪽으로 도세요."
+    },
+    {
+      "term": "straight",
+      "meaning": "곧장",
+      "phonetic": "stɹˈeɪt",
+      "example": "Go straight for two blocks.",
+      "exampleTranslation": "두 블록 곧장 가세요."
+    },
+    {
+      "term": "near",
+      "meaning": "가까운",
+      "phonetic": "nˈɪɹ",
+      "example": "Our hotel is near the station.",
+      "exampleTranslation": "우리 호텔은 역 근처에 있다."
+    },
+    {
+      "term": "far",
+      "meaning": "먼",
+      "phonetic": "fˈɑɹ",
+      "example": "The airport is far from downtown.",
+      "exampleTranslation": "공항은 시내에서 멀다."
+    },
+    {
+      "term": "entrance",
+      "meaning": "입구",
+      "phonetic": "ˈɛntɹəns",
+      "example": "Meet me at the main entrance.",
+      "exampleTranslation": "정문 입구에서 만나자."
+    },
+    {
+      "term": "exit",
+      "meaning": "출구",
+      "phonetic": "ˈɛɡzɪt",
+      "example": "The exit is at the end of the hall.",
+      "exampleTranslation": "출구는 복도 끝에 있다."
+    },
+    {
+      "term": "help",
+      "meaning": "도움",
+      "phonetic": "hˈɛlp",
+      "example": "Thank you for your help.",
+      "exampleTranslation": "도와주셔서 감사합니다."
+    },
+    {
+      "term": "lost",
+      "meaning": "길을 잃은",
+      "phonetic": "lˈɔst",
+      "example": "I think we are lost.",
+      "exampleTranslation": "우리 길을 잃은 것 같아요."
+    },
+    {
+      "term": "police",
+      "meaning": "경찰",
+      "phonetic": "pəlˈis",
+      "example": "The police officer gave us directions.",
+      "exampleTranslation": "경찰관이 우리에게 길을 알려주었다."
+    },
+    {
+      "term": "hospital",
+      "meaning": "병원",
+      "phonetic": "hˈɑspˌɪtəl",
+      "example": "The hospital is open twenty-four hours.",
+      "exampleTranslation": "그 병원은 24시간 운영된다."
+    },
+    {
+      "term": "pharmacy",
+      "meaning": "약국",
+      "phonetic": "fˈɑɹməsi",
+      "example": "Is there a pharmacy nearby?",
+      "exampleTranslation": "근처에 약국이 있나요?"
+    },
+    {
+      "term": "How much is it?",
+      "meaning": "얼마예요?",
+      "phonetic": "hˈaʊ mˈʌtʃ ˈɪz ˈɪt",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Where is the restroom?",
+      "meaning": "화장실이 어디예요?",
+      "phonetic": "wˈɛɹ ˈɪz ðə ɹˈɛstɹˌum",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Could you help me?",
+      "meaning": "도와주실 수 있나요?",
+      "phonetic": "kˈʊd jˈu hˈɛlp mˈi",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "I have a reservation.",
+      "meaning": "예약했어요.",
+      "phonetic": "ˈaɪ hˈæv ə ɹˌɛzɚvˈeɪʃən",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "I'd like to check in.",
+      "meaning": "체크인하고 싶어요.",
+      "phonetic": "ˈaɪd lˈaɪk tˈu tʃˈɛk ɪn",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "What time is breakfast?",
+      "meaning": "아침 식사는 몇 시예요?",
+      "phonetic": "wˈʌt tˈaɪm ˈɪz bɹˈɛkfəst",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Could I have the bill?",
+      "meaning": "계산서 주시겠어요?",
+      "phonetic": "kˈʊd ˈaɪ hˈæv ðə bˈɪl",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Can I pay by card?",
+      "meaning": "카드로 결제할 수 있나요?",
+      "phonetic": "kˈæn ˈaɪ pˈeɪ bˈaɪ kˈɑɹd",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Where is the station?",
+      "meaning": "역이 어디예요?",
+      "phonetic": "wˈɛɹ ˈɪz ðə stˈeɪʃən",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "How long does it take?",
+      "meaning": "얼마나 걸리나요?",
+      "phonetic": "hˈaʊ lˈɔŋ dˈʌz ˈɪt tˈeɪk",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Is it far from here?",
+      "meaning": "여기서 먼가요?",
+      "phonetic": "ˈɪz ˈɪt fˈɑɹ fɹˈʌm hˈiɹ",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Please take me here.",
+      "meaning": "여기로 데려다 주세요.",
+      "phonetic": "plˈiz tˈeɪk mˈi hˈiɹ",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "I need a taxi.",
+      "meaning": "택시가 필요해요.",
+      "phonetic": "ˈaɪ nˈid ə tˈæksi",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "What do you recommend?",
+      "meaning": "무엇을 추천하시나요?",
+      "phonetic": "wˈʌt dˈu jˈu ɹˌɛkəmˈɛnd",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "I'd like this one.",
+      "meaning": "이것으로 할게요.",
+      "phonetic": "ˈaɪd lˈaɪk ðˈɪs wˈʌn",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Can I try it on?",
+      "meaning": "입어봐도 되나요?",
+      "phonetic": "kˈæn ˈaɪ tɹˈaɪ ˈɪt ˈɑn",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Do you have a smaller size?",
+      "meaning": "더 작은 사이즈가 있나요?",
+      "phonetic": "dˈu jˈu hˈæv ə smˈɔlɚ sˈaɪz",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Do you have this in another color?",
+      "meaning": "다른 색도 있나요?",
+      "phonetic": "dˈu jˈu hˈæv ðˈɪs ɪn ənˈʌðɚ kˈʌlɚ",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "It's too expensive.",
+      "meaning": "너무 비싸요.",
+      "phonetic": "ˈɪts tˈu ɪkspˈɛnsɪv",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Is there a discount?",
+      "meaning": "할인이 있나요?",
+      "phonetic": "ˈɪz ðˈɛɹ ə dɪskˈaʊnt",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "I'll take it.",
+      "meaning": "이걸로 할게요.",
+      "phonetic": "ˈaɪl tˈeɪk ˈɪt",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Where can I buy a SIM card?",
+      "meaning": "SIM 카드는 어디서 살 수 있나요?",
+      "phonetic": "wˈɛɹ kˈæn ˈaɪ bˈaɪ ə sˈɪm kˈɑɹd",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Do you have Wi-Fi?",
+      "meaning": "Wi-Fi가 있나요?",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "What's the Wi-Fi password?",
+      "meaning": "Wi-Fi 비밀번호가 무엇인가요?",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Could you say that again?",
+      "meaning": "다시 말씀해 주시겠어요?",
+      "phonetic": "kˈʊd jˈu sˈeɪ ðˈæt əɡˈɛn",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "I don't understand.",
+      "meaning": "이해하지 못했어요.",
+      "phonetic": "ˈaɪ dˈoʊnt ˌʌndɚstˈænd",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Do you speak Korean?",
+      "meaning": "한국어를 하시나요?",
+      "phonetic": "dˈu jˈu spˈik kˌɔɹˈiən",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Please speak slowly.",
+      "meaning": "천천히 말해주세요.",
+      "phonetic": "plˈiz spˈik slˈoʊli",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "I'm looking for this address.",
+      "meaning": "이 주소를 찾고 있어요.",
+      "phonetic": "ˈaɪm lˈʊkɪŋ fˈɔɹ ðˈɪs ˈædɹˌɛs",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Is this the right way?",
+      "meaning": "이 길이 맞나요?",
+      "phonetic": "ˈɪz ðˈɪs ðə ɹˈaɪt wˈeɪ",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Turn left.",
+      "meaning": "왼쪽으로 도세요.",
+      "phonetic": "tˈɝn lˈɛft",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Turn right.",
+      "meaning": "오른쪽으로 도세요.",
+      "phonetic": "tˈɝn ɹˈaɪt",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Go straight.",
+      "meaning": "곧장 가세요.",
+      "phonetic": "ɡˈoʊ stɹˈeɪt",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Stop here, please.",
+      "meaning": "여기서 세워주세요.",
+      "phonetic": "stˈɑp hˈiɹ plˈiz",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Be careful.",
+      "meaning": "조심하세요.",
+      "phonetic": "bˈi kˈɛɹfəl",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "I need help.",
+      "meaning": "도움이 필요해요.",
+      "phonetic": "ˈaɪ nˈid hˈɛlp",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Call the police.",
+      "meaning": "경찰을 불러주세요.",
+      "phonetic": "kˈɔl ðə pəlˈis",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Call an ambulance.",
+      "meaning": "구급차를 불러주세요.",
+      "phonetic": "kˈɔl ˈæn ˈæmbjələns",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "I'm sick.",
+      "meaning": "아파요.",
+      "phonetic": "ˈaɪm sˈɪk",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "I lost my passport.",
+      "meaning": "여권을 잃어버렸어요.",
+      "phonetic": "ˈaɪ lˈɔst mˈaɪ pˈæspˌɔɹt",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "My luggage is missing.",
+      "meaning": "수하물이 없어졌어요.",
+      "phonetic": "mˈaɪ lˈʌɡədʒ ˈɪz mˈɪsɪŋ",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Where is the lost and found?",
+      "meaning": "분실물 센터가 어디예요?",
+      "phonetic": "wˈɛɹ ˈɪz ðə lˈɔst ənd fˈaʊnd",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "What time does it open?",
+      "meaning": "몇 시에 여나요?",
+      "phonetic": "wˈʌt tˈaɪm dˈʌz ˈɪt ˈoʊpən",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "What time does it close?",
+      "meaning": "몇 시에 닫나요?",
+      "phonetic": "wˈʌt tˈaɪm dˈʌz ˈɪt klˈoʊs",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Is it open today?",
+      "meaning": "오늘 문을 여나요?",
+      "phonetic": "ˈɪz ˈɪt ˈoʊpən tədˈeɪ",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Can I take a photo?",
+      "meaning": "사진을 찍어도 되나요?",
+      "phonetic": "kˈæn ˈaɪ tˈeɪk ə fˈoʊtˌoʊ",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "No problem.",
+      "meaning": "문제없어요.",
+      "phonetic": "nˈoʊ pɹˈɑbləm",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Thank you.",
+      "meaning": "감사합니다.",
+      "phonetic": "θˈæŋk jˈu",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "You're welcome.",
+      "meaning": "천만에요.",
+      "phonetic": "jˈʊɹ wˈɛlkəm",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Excuse me.",
+      "meaning": "실례합니다.",
+      "phonetic": "ɪkskjˈus mˈi",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "I'm sorry.",
+      "meaning": "죄송합니다.",
+      "phonetic": "ˈaɪm sˈɑɹi",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "Please.",
+      "meaning": "부탁합니다.",
+      "phonetic": "plˈiz",
+      "example": "이미 완성된 문장입니다."
+    }
+  ]
+}

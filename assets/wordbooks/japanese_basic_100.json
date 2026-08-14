@@ -1,0 +1,643 @@
+{
+  "id": "japanese_basic_100",
+  "name": "일본어 기초",
+  "description": "일상에서 자주 쓰는 일본어 기초 단어와 표현",
+  "language": "ja",
+  "category": "일본어",
+  "version": 1,
+  "items": [
+    {
+      "term": "こんにちは",
+      "meaning": "안녕하세요",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "ありがとう",
+      "meaning": "고마워요",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "ありがとうございます",
+      "meaning": "감사합니다",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "すみません",
+      "meaning": "죄송합니다, 실례합니다",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "お願いします",
+      "meaning": "부탁합니다",
+      "reading": "おねがいします",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "はい",
+      "meaning": "네",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "いいえ",
+      "meaning": "아니요",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "おはよう",
+      "meaning": "좋은 아침이에요",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "こんばんは",
+      "meaning": "안녕하세요(저녁)",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "さようなら",
+      "meaning": "안녕히 가세요",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "わたし",
+      "meaning": "나",
+      "example": "わたしは学生です。",
+      "exampleTranslation": "저는 학생입니다."
+    },
+    {
+      "term": "あなた",
+      "meaning": "당신",
+      "example": "あなたの名前は何ですか。",
+      "exampleTranslation": "당신의 이름은 무엇인가요?"
+    },
+    {
+      "term": "これ",
+      "meaning": "이것",
+      "example": "これは私のかばんです。",
+      "exampleTranslation": "이것은 제 가방입니다."
+    },
+    {
+      "term": "それ",
+      "meaning": "그것",
+      "example": "それを見せてください。",
+      "exampleTranslation": "그것을 보여주세요."
+    },
+    {
+      "term": "あれ",
+      "meaning": "저것",
+      "example": "あれは何ですか。",
+      "exampleTranslation": "저것은 무엇인가요?"
+    },
+    {
+      "term": "ここ",
+      "meaning": "여기",
+      "example": "ここに座ってください。",
+      "exampleTranslation": "여기에 앉아주세요."
+    },
+    {
+      "term": "そこ",
+      "meaning": "거기",
+      "example": "そこに本があります。",
+      "exampleTranslation": "거기에 책이 있습니다."
+    },
+    {
+      "term": "あそこ",
+      "meaning": "저기",
+      "example": "あそこにレストランがあります。",
+      "exampleTranslation": "저기에 식당이 있습니다."
+    },
+    {
+      "term": "どこ",
+      "meaning": "어디",
+      "example": "トイレはどこにありますか。",
+      "exampleTranslation": "화장실은 어디에 있나요?"
+    },
+    {
+      "term": "なに",
+      "meaning": "무엇",
+      "example": "これは何ですか。",
+      "exampleTranslation": "이것은 무엇인가요?"
+    },
+    {
+      "term": "だれ",
+      "meaning": "누구",
+      "example": "あの人は誰ですか。",
+      "exampleTranslation": "저 사람은 누구인가요?"
+    },
+    {
+      "term": "いつ",
+      "meaning": "언제",
+      "example": "誕生日はいつですか。",
+      "exampleTranslation": "생일이 언제인가요?"
+    },
+    {
+      "term": "いくら",
+      "meaning": "얼마",
+      "example": "これはいくらですか。",
+      "exampleTranslation": "이것은 얼마인가요?"
+    },
+    {
+      "term": "なぜ",
+      "meaning": "왜",
+      "example": "なぜ遅れたのですか。",
+      "exampleTranslation": "왜 늦었나요?"
+    },
+    {
+      "term": "どう",
+      "meaning": "어떻게",
+      "example": "味はどうですか。",
+      "exampleTranslation": "맛은 어떤가요?"
+    },
+    {
+      "term": "水",
+      "meaning": "물",
+      "reading": "みず",
+      "example": "水を一杯ください。",
+      "exampleTranslation": "물 한 잔 주세요."
+    },
+    {
+      "term": "お茶",
+      "meaning": "차",
+      "reading": "おちゃ",
+      "example": "お茶を飲みますか。",
+      "exampleTranslation": "차를 마시겠어요?"
+    },
+    {
+      "term": "ご飯",
+      "meaning": "밥, 식사",
+      "reading": "ごはん",
+      "example": "もうご飯を食べましたか。",
+      "exampleTranslation": "벌써 식사했어요?"
+    },
+    {
+      "term": "パン",
+      "meaning": "빵",
+      "example": "朝はパンを食べます。",
+      "exampleTranslation": "아침에는 빵을 먹어요."
+    },
+    {
+      "term": "肉",
+      "meaning": "고기",
+      "reading": "にく",
+      "example": "肉が好きです。",
+      "exampleTranslation": "고기를 좋아해요."
+    },
+    {
+      "term": "魚",
+      "meaning": "생선",
+      "reading": "さかな",
+      "example": "魚は好きではありません。",
+      "exampleTranslation": "생선은 좋아하지 않아요."
+    },
+    {
+      "term": "野菜",
+      "meaning": "채소",
+      "reading": "やさい",
+      "example": "野菜をたくさん食べてください。",
+      "exampleTranslation": "채소를 많이 드세요."
+    },
+    {
+      "term": "果物",
+      "meaning": "과일",
+      "reading": "くだもの",
+      "example": "この果物はとても甘いです。",
+      "exampleTranslation": "이 과일은 정말 달아요."
+    },
+    {
+      "term": "コーヒー",
+      "meaning": "커피",
+      "example": "コーヒーを一杯ください。",
+      "exampleTranslation": "커피 한 잔 주세요."
+    },
+    {
+      "term": "ビール",
+      "meaning": "맥주",
+      "example": "ビールを二つください。",
+      "exampleTranslation": "맥주 두 잔 주세요."
+    },
+    {
+      "term": "駅",
+      "meaning": "역",
+      "reading": "えき",
+      "example": "駅まで歩いて五分です。",
+      "exampleTranslation": "역까지 걸어서 5분이에요."
+    },
+    {
+      "term": "電車",
+      "meaning": "전철",
+      "reading": "でんしゃ",
+      "example": "電車で会社に行きます。",
+      "exampleTranslation": "전철로 회사에 가요."
+    },
+    {
+      "term": "バス",
+      "meaning": "버스",
+      "example": "バスはもうすぐ来ます。",
+      "exampleTranslation": "버스가 곧 와요."
+    },
+    {
+      "term": "タクシー",
+      "meaning": "택시",
+      "example": "タクシーを呼んでください。",
+      "exampleTranslation": "택시를 불러주세요."
+    },
+    {
+      "term": "空港",
+      "meaning": "공항",
+      "reading": "くうこう",
+      "example": "空港まで送ってください。",
+      "exampleTranslation": "공항까지 데려다주세요."
+    },
+    {
+      "term": "ホテル",
+      "meaning": "호텔",
+      "example": "ホテルの部屋はきれいです。",
+      "exampleTranslation": "호텔 방은 깨끗해요."
+    },
+    {
+      "term": "店",
+      "meaning": "가게",
+      "reading": "みせ",
+      "example": "この店は九時に開きます。",
+      "exampleTranslation": "이 가게는 9시에 열어요."
+    },
+    {
+      "term": "レストラン",
+      "meaning": "식당",
+      "example": "駅の近くにレストランがあります。",
+      "exampleTranslation": "역 근처에 식당이 있어요."
+    },
+    {
+      "term": "病院",
+      "meaning": "병원",
+      "reading": "びょういん",
+      "example": "病院はどこですか。",
+      "exampleTranslation": "병원은 어디인가요?"
+    },
+    {
+      "term": "薬局",
+      "meaning": "약국",
+      "reading": "やっきょく",
+      "example": "薬局で薬を買いました。",
+      "exampleTranslation": "약국에서 약을 샀어요."
+    },
+    {
+      "term": "今日",
+      "meaning": "오늘",
+      "reading": "きょう",
+      "example": "今日は忙しいです。",
+      "exampleTranslation": "오늘은 바빠요."
+    },
+    {
+      "term": "明日",
+      "meaning": "내일",
+      "reading": "あした",
+      "example": "明日、映画を見ます。",
+      "exampleTranslation": "내일 영화를 봐요."
+    },
+    {
+      "term": "昨日",
+      "meaning": "어제",
+      "reading": "きのう",
+      "example": "昨日は雨でした。",
+      "exampleTranslation": "어제는 비가 왔어요."
+    },
+    {
+      "term": "朝",
+      "meaning": "아침",
+      "reading": "あさ",
+      "example": "朝、公園を歩きます。",
+      "exampleTranslation": "아침에 공원을 걸어요."
+    },
+    {
+      "term": "昼",
+      "meaning": "낮, 점심",
+      "reading": "ひる",
+      "example": "昼はとても暑いです。",
+      "exampleTranslation": "낮에는 매우 더워요."
+    },
+    {
+      "term": "夜",
+      "meaning": "밤",
+      "reading": "よる",
+      "example": "夜は静かです。",
+      "exampleTranslation": "밤에는 조용해요."
+    },
+    {
+      "term": "今",
+      "meaning": "지금",
+      "reading": "いま",
+      "example": "今、何時ですか。",
+      "exampleTranslation": "지금 몇 시예요?"
+    },
+    {
+      "term": "時間",
+      "meaning": "시간",
+      "reading": "じかん",
+      "example": "時間がありません。",
+      "exampleTranslation": "시간이 없어요."
+    },
+    {
+      "term": "分",
+      "meaning": "분",
+      "reading": "ふん",
+      "example": "あと五分待ってください。",
+      "exampleTranslation": "앞으로 5분만 기다려주세요."
+    },
+    {
+      "term": "日",
+      "meaning": "날",
+      "reading": "ひ",
+      "example": "いい日ですね。",
+      "exampleTranslation": "좋은 날이네요."
+    },
+    {
+      "term": "行く",
+      "meaning": "가다",
+      "reading": "いく",
+      "example": "明日、学校に行きます。",
+      "exampleTranslation": "내일 학교에 가요."
+    },
+    {
+      "term": "来る",
+      "meaning": "오다",
+      "reading": "くる",
+      "example": "友達が家に来ます。",
+      "exampleTranslation": "친구가 집에 와요."
+    },
+    {
+      "term": "帰る",
+      "meaning": "돌아가다",
+      "reading": "かえる",
+      "example": "もう家に帰ります。",
+      "exampleTranslation": "이제 집에 돌아가요."
+    },
+    {
+      "term": "食べる",
+      "meaning": "먹다",
+      "reading": "たべる",
+      "example": "昼ご飯を食べましょう。",
+      "exampleTranslation": "점심을 먹읍시다."
+    },
+    {
+      "term": "飲む",
+      "meaning": "마시다",
+      "reading": "のむ",
+      "example": "水をたくさん飲みます。",
+      "exampleTranslation": "물을 많이 마셔요."
+    },
+    {
+      "term": "見る",
+      "meaning": "보다",
+      "reading": "みる",
+      "example": "テレビを見ています。",
+      "exampleTranslation": "TV를 보고 있어요."
+    },
+    {
+      "term": "聞く",
+      "meaning": "듣다, 묻다",
+      "reading": "きく",
+      "example": "音楽を聞くのが好きです。",
+      "exampleTranslation": "음악을 듣는 것을 좋아해요."
+    },
+    {
+      "term": "話す",
+      "meaning": "말하다",
+      "reading": "はなす",
+      "example": "もっとゆっくり話してください。",
+      "exampleTranslation": "좀 더 천천히 말해주세요."
+    },
+    {
+      "term": "読む",
+      "meaning": "읽다",
+      "reading": "よむ",
+      "example": "毎晩、本を読みます。",
+      "exampleTranslation": "매일 밤 책을 읽어요."
+    },
+    {
+      "term": "書く",
+      "meaning": "쓰다",
+      "reading": "かく",
+      "example": "名前をここに書いてください。",
+      "exampleTranslation": "이름을 여기에 써주세요."
+    },
+    {
+      "term": "買う",
+      "meaning": "사다",
+      "reading": "かう",
+      "example": "デパートで靴を買いました。",
+      "exampleTranslation": "백화점에서 신발을 샀어요."
+    },
+    {
+      "term": "使う",
+      "meaning": "사용하다",
+      "reading": "つかう",
+      "example": "このペンを使ってもいいですか。",
+      "exampleTranslation": "이 펜을 써도 될까요?"
+    },
+    {
+      "term": "分かる",
+      "meaning": "알다, 이해하다",
+      "reading": "わかる",
+      "example": "よく分かりました。",
+      "exampleTranslation": "잘 알겠습니다."
+    },
+    {
+      "term": "知る",
+      "meaning": "알다",
+      "reading": "しる",
+      "example": "この道を知っていますか。",
+      "exampleTranslation": "이 길을 아세요?"
+    },
+    {
+      "term": "思う",
+      "meaning": "생각하다",
+      "reading": "おもう",
+      "example": "いいと思います。",
+      "exampleTranslation": "좋다고 생각해요."
+    },
+    {
+      "term": "好き",
+      "meaning": "좋아함",
+      "reading": "すき",
+      "example": "音楽が好きです。",
+      "exampleTranslation": "음악을 좋아해요."
+    },
+    {
+      "term": "嫌い",
+      "meaning": "싫어함",
+      "reading": "きらい",
+      "example": "辛い食べ物が嫌いです。",
+      "exampleTranslation": "매운 음식을 싫어해요."
+    },
+    {
+      "term": "大きい",
+      "meaning": "크다",
+      "reading": "おおきい",
+      "example": "この家は大きいです。",
+      "exampleTranslation": "이 집은 커요."
+    },
+    {
+      "term": "小さい",
+      "meaning": "작다",
+      "reading": "ちいさい",
+      "example": "この靴は小さいです。",
+      "exampleTranslation": "이 신발은 작아요."
+    },
+    {
+      "term": "高い",
+      "meaning": "비싸다, 높다",
+      "reading": "たかい",
+      "example": "このホテルは高いです。",
+      "exampleTranslation": "이 호텔은 비싸요."
+    },
+    {
+      "term": "安い",
+      "meaning": "싸다",
+      "reading": "やすい",
+      "example": "この店は安いです。",
+      "exampleTranslation": "이 가게는 싸요."
+    },
+    {
+      "term": "新しい",
+      "meaning": "새롭다",
+      "reading": "あたらしい",
+      "example": "新しい携帯電話を買いました。",
+      "exampleTranslation": "새 휴대폰을 샀어요."
+    },
+    {
+      "term": "古い",
+      "meaning": "오래되다",
+      "reading": "ふるい",
+      "example": "この建物は古いです。",
+      "exampleTranslation": "이 건물은 오래됐어요."
+    },
+    {
+      "term": "良い",
+      "meaning": "좋다",
+      "reading": "よい",
+      "example": "天気が良いです。",
+      "exampleTranslation": "날씨가 좋아요."
+    },
+    {
+      "term": "悪い",
+      "meaning": "나쁘다",
+      "reading": "わるい",
+      "example": "気分が悪いです。",
+      "exampleTranslation": "기분이 안 좋아요."
+    },
+    {
+      "term": "おいしい",
+      "meaning": "맛있다",
+      "example": "この料理はおいしいです。",
+      "exampleTranslation": "이 요리는 맛있어요."
+    },
+    {
+      "term": "かわいい",
+      "meaning": "귀엽다",
+      "example": "あの犬はかわいいです。",
+      "exampleTranslation": "저 강아지는 귀여워요."
+    },
+    {
+      "term": "きれい",
+      "meaning": "예쁘다, 깨끗하다",
+      "example": "この部屋はきれいです。",
+      "exampleTranslation": "이 방은 깨끗해요."
+    },
+    {
+      "term": "大丈夫",
+      "meaning": "괜찮다",
+      "reading": "だいじょうぶ",
+      "example": "大丈夫ですか。",
+      "exampleTranslation": "괜찮으세요?"
+    },
+    {
+      "term": "本当",
+      "meaning": "정말, 진짜",
+      "reading": "ほんとう",
+      "example": "それは本当ですか。",
+      "exampleTranslation": "그거 정말이에요?"
+    },
+    {
+      "term": "ください",
+      "meaning": "주세요",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "あります",
+      "meaning": "있습니다",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "ありません",
+      "meaning": "없습니다",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "できます",
+      "meaning": "할 수 있습니다",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "できません",
+      "meaning": "할 수 없습니다",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "いくらですか",
+      "meaning": "얼마예요?",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "どこですか",
+      "meaning": "어디예요?",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "これは何ですか",
+      "meaning": "이것은 무엇인가요?",
+      "reading": "これはなんですか",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "助けてください",
+      "meaning": "도와주세요",
+      "reading": "たすけてください",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "分かりません",
+      "meaning": "모르겠습니다",
+      "reading": "わかりません",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "もう一度お願いします",
+      "meaning": "한 번 더 부탁합니다",
+      "reading": "もういちどおねがいします",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "ゆっくり話してください",
+      "meaning": "천천히 말해주세요",
+      "reading": "ゆっくりはなしてください",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "日本語が分かりません",
+      "meaning": "일본어를 모릅니다",
+      "reading": "にほんごがわかりません",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "韓国語を話せますか",
+      "meaning": "한국어 할 수 있나요?",
+      "reading": "かんこくごをはなせますか",
+      "example": "이미 완성된 문장입니다."
+    },
+    {
+      "term": "トイレはどこですか",
+      "meaning": "화장실은 어디예요?",
+      "example": "이미 완성된 문장입니다."
+    }
+  ]
+}
