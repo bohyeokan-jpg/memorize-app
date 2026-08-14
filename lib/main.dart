@@ -14,7 +14,7 @@ class MemorizeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      title: '암기 앱',
+      title: '영어 단어 앱',
       theme: appTheme,
       routerConfig: appRouter,
     );

@@ -1,6 +1,6 @@
 {
-    "name": "memorize_app",
-    "short_name": "memorize_app",
+    "name": "영어 단어 앱",
+    "short_name": "영어 단어 앱",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -12,7 +12,7 @@ class HomeScreen extends ConsumerWidget {
     final wordBooksAsync = ref.watch(wordBooksProvider);
 
     return Scaffold(
-      appBar: AppBar(title: const Text('암기 앱')),
+      appBar: AppBar(title: const Text('영어 단어 앱')),
       body: wordBooksAsync.when(
         loading: () => const Center(child: CircularProgressIndicator()),
         error: (error, stackTrace) => Center(child: Text('단어장을 불러오지 못했습니다.\n$error')),
